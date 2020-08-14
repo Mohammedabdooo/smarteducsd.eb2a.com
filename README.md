@@ -1,2 +1,1 @@
-# website
-Create website
+http://smarteducsd.eb2a.com

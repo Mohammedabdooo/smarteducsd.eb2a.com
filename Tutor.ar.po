@@ -1,0 +1,2914 @@
+# Translation of Tutor LMS Pro in Dutch
+# This file is distributed under the same license as the Tutor LMS Pro package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-16 09:53:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: nl\n"
+"Project-Id-Version: Tutor LMS Pro\n"
+
+#: addons/tutor-report/views/pages/students/student-table.php:82
+msgid "Items <strong>%s</strong> of <strong>%s</strong> total"
+msgstr "Artikelen <strong> %s </strong> van totaal <strong> %s </strong>"
+
+#: addons/tutor-report/views/pages/students/student-table.php:37
+msgid "Course Taken"
+msgstr "Cursus gevolgd"
+
+#: addons/tutor-report/views/pages/students/student-table.php:36
+msgid "Registered"
+msgstr "Geregistreerd"
+
+#: addons/tutor-report/views/pages/students/student-table.php:34
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: addons/tutor-report/views/pages/students/student-table.php:7
+msgid "User Search"
+msgstr "Gebruiker zoeken"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:359
+msgid "Items <strong> %s </strong> of<strong> %s </strong> total"
+msgstr "Artikelen <strong> %s </strong> van totaal <strong> %s </strong>"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:307
+msgid "Review"
+msgstr "Beoordeling"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:203
+msgid "Percentage"
+msgstr "Percentage"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:199
+msgid "Enroll Date & Time"
+msgstr "Inschrijf datum en tijd"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:190
+msgid "Incomplete"
+msgstr "Incompleet"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:189
+msgid "Complete"
+msgstr "Compleet"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:177
+msgid "Total Discussion"
+msgstr "Totale discussie"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:138
+msgid "Take Quiz"
+msgstr "Doe een quiz"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:128
+msgid "Total Lesson"
+msgstr "Totale les"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:109
+msgid "Reviews Placed"
+msgstr "Recensies geplaatst"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:84
+msgid "Completed Courses"
+msgstr "Voltooide cursussen"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:69
+msgid "Enrolled Courses"
+msgstr "Ingeschreven cursussen"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:48
+msgid "User ID"
+msgstr "User ID"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:45
+msgid "Email ID"
+msgstr "E-mail identiteit"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:42
+msgid "User Name"
+msgstr "Gebruikersnaam"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:39
+msgid "Display Name"
+msgstr "Weergavenaam"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:24
+msgid "Never Login Before"
+msgstr "Nooit eerder ingelogd"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:18
+msgid "Last Activity:"
+msgstr "Laatste activiteit:"
+
+#: addons/tutor-report/views/pages/students/student-profile.php:11
+msgid "tutor student profile photo"
+msgstr "tutor student profiel foto"
+
+#: addons/tutor-report/views/pages/sales/sales.php:47
+msgid "Price"
+msgstr "Prijs"
+
+#: addons/tutor-report/views/pages/sales/sales.php:119
+msgid "No Sales Data Found!"
+msgstr "Geen verkoopgegevens gevonden!"
+
+#: addons/tutor-report/views/pages/sales/sales.php:35
+msgid "Total Order  %d"
+msgstr "Totale bestelling %d"
+
+#: addons/tutor-report/views/pages/courses/course-table.php:184
+msgid "No Course Data Found!"
+msgstr "Geen cursusgegevens gevonden!"
+
+#: addons/tutor-report/views/pages/courses/course-table.php:147,
+#: addons/tutor-report/views/pages/students/student-profile.php:187
+msgid "Course List"
+msgstr "Cursuslijst"
+
+#: addons/tutor-report/views/pages/courses/course-table.php:127
+msgid "Sort By"
+msgstr "Sorteer op"
+
+#: addons/tutor-report/views/pages/courses/course-table.php:110
+msgid "Category"
+msgstr "Categorie"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:436,
+#: addons/tutor-report/views/pages/students/student-profile.php:325
+msgid "Rating & Feedback"
+msgstr "Beoordeling en feedback"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:474,
+#: addons/tutor-report/views/pages/reviews/reviews.php:110,
+#: addons/tutor-report/views/pages/students/student-profile.php:350
+msgid "No Review Data Found!"
+msgstr "Geen recensiegegevens gevonden!"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:403,
+#: addons/tutor-report/views/pages/students/student-profile.php:32
+msgid "View Profile"
+msgstr "Bekijk profiel"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:398
+msgid "%s (%s Ratings)"
+msgstr "%s (%s beoordelingen)"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:363
+msgid "Total Courses"
+msgstr "Totaal aantal cursussen"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:411
+msgid "No Instructor Data Found!"
+msgstr "Geen instructeursgegevens gevonden!"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:319,
+#: addons/tutor-report/views/pages/courses/course-table.php:173,
+#: addons/tutor-report/views/pages/students/student-table.php:62
+msgid "Details"
+msgstr "Details"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:290,
+#: addons/tutor-report/views/pages/students/student-table.php:38
+msgid "Progress"
+msgstr "Vooruitgang"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:288
+msgid "Enroll Date"
+msgstr "Inschrijfdatum"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:326,
+#: addons/tutor-report/views/pages/students/student-table.php:73
+msgid "No Students Data Found!"
+msgstr "Geen studentengegevens gevonden!"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:252
+msgid "Refund"
+msgstr "Terugbetaling"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:230
+msgid "Total Discount"
+msgstr "Totale korting"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:207
+msgid "Total Earning"
+msgstr "Totale inkomen"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:182,
+#: addons/tutor-report/views/pages/courses/course-table.php:158
+msgid "Earnings"
+msgstr "Inkomsten"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:160
+msgid "Sales Graph"
+msgstr "Verkoopgrafiek"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:148
+msgid "Ratings"
+msgstr "Waarderingen"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:137,
+#: addons/tutor-report/views/pages/students/student-profile.php:94
+msgid "Course Continue"
+msgstr "Cursus doorgaan"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:126
+msgid "Course Completed"
+msgstr "Cursus voltooid"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:120,
+#: addons/tutor-report/views/pages/courses/course-single.php:364,
+#: addons/tutor-report/views/pages/courses/course-table.php:157
+msgid "Total Students"
+msgstr "Totaal aantal studenten"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:98
+msgid "Total Quiz"
+msgstr "Totaal aantal quizen"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:80,
+#: addons/tutor-report/views/pages/courses/course-single.php:289,
+#: addons/tutor-report/views/pages/courses/course-table.php:154,
+#: addons/tutor-report/views/pages/students/student-profile.php:200,
+#: addons/tutor-report/views/pages/students/student-profile.php:256
+msgid "Lesson"
+msgstr "Les"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:67
+msgid "View Course"
+msgstr "Bekijk cursus"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:66
+msgid "Edit with Builder"
+msgstr "Bewerk met Builder"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:63
+msgid "Last Update:"
+msgstr "Laatste update:"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:62,
+#: addons/tutor-report/views/pages/students/student-profile.php:16
+msgid "Created:"
+msgstr "Gemaakt:"
+
+#: addons/tutor-zoom/views/pages/set_api.php:22
+msgid "Check API Connection"
+msgstr "Controleer API-verbinding"
+
+#: addons/tutor-zoom/views/pages/set_api.php:21
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: addons/tutor-zoom/views/pages/set_api.php:18
+msgid "Enter Your Zoom Secret Key"
+msgstr "Voer uw Zoom-geheime sleutel in"
+
+#: addons/tutor-zoom/views/pages/set_api.php:17
+msgid "Secret Key"
+msgstr "Geheime sleutel"
+
+#: addons/tutor-zoom/views/pages/set_api.php:14
+msgid "Enter Your Zoom Api Key"
+msgstr "Voer uw Zoom Api-sleutel in"
+
+#: addons/tutor-zoom/views/pages/set_api.php:13
+msgid "API Key"
+msgstr "API sleutel"
+
+#: addons/tutor-zoom/views/pages/set_api.php:11
+msgid "link"
+msgstr "link"
+
+#: addons/tutor-zoom/views/pages/set_api.php:11
+msgid "Visit your Zoom account and fetch the API key to connect Zoom with your eLearning website. Create an app on Zoom by following this"
+msgstr "Ga naar uw Zoom-account en haal de API-sleutel op om Zoom te verbinden met uw eLearning-website. Maak een app op Zoom door dit te volgen"
+
+#: addons/tutor-zoom/views/pages/set_api.php:10
+msgid "Setup your Zoom Integration"
+msgstr "Stel uw Zoom-integratie in"
+
+#: addons/tutor-zoom/views/pages/settings.php:39
+msgid "Select Where You Want to Record"
+msgstr "Selecteer waar u wilt opnemen"
+
+#: addons/tutor-zoom/views/pages/settings.php:37
+msgid "Zoom Cloud"
+msgstr "Zoom Cloud"
+
+#: addons/tutor-zoom/views/pages/settings.php:36
+msgid "Local Drive"
+msgstr "Lokale schijf"
+
+#: addons/tutor-zoom/views/pages/settings.php:33
+msgid "Recording Settings"
+msgstr "Opname-instellingen"
+
+#: addons/tutor-zoom/views/pages/settings.php:29
+msgid "Only users logged into Zoom App can join the meeting"
+msgstr "Alleen gebruikers die zijn aangemeld bij de Zoom app kunnen deelnemen aan de vergadering"
+
+#: addons/tutor-zoom/views/pages/settings.php:28
+msgid "Enforce Login"
+msgstr "Inloggen afdwingen"
+
+#: addons/tutor-zoom/views/pages/settings.php:24
+msgid "Participants will join the meeting with audio muted"
+msgstr "Deelnemers nemen deel aan de vergadering met gedempt geluid"
+
+#: addons/tutor-zoom/views/pages/settings.php:23
+msgid "Mute Participants"
+msgstr "Deelnemers dempen"
+
+#: addons/tutor-zoom/views/pages/settings.php:19
+msgid "Participant will join the meeting with video enabled"
+msgstr "De deelnemer neemt deel aan de vergadering terwijl video is ingeschakeld"
+
+#: addons/tutor-zoom/views/pages/settings.php:18
+msgid "Participants video"
+msgstr "Deelnemersvideo"
+
+#: addons/tutor-zoom/views/pages/settings.php:14
+msgid "Host will join the meeting with video enabled"
+msgstr "De host neemt deel aan de vergadering waarbij video is ingeschakeld"
+
+#: addons/tutor-zoom/views/pages/settings.php:13
+msgid "Host video"
+msgstr "Host video"
+
+#: addons/tutor-zoom/views/pages/settings.php:9
+msgid "Join meeting before the host starts the meeting. Only for scheduled or recurring meetings"
+msgstr "Neem deel aan de vergadering voordat de host de vergadering start. Alleen voor geplande of terugkerende vergaderingen"
+
+#: addons/tutor-zoom/views/pages/settings.php:8
+msgid "Join Before Host"
+msgstr "Word lid voordat je host"
+
+#: addons/tutor-zoom/views/pages/meetings.php:183
+msgid "Zoom Meeting"
+msgstr "Zoom Meeting"
+
+#: addons/tutor-zoom/views/pages/meetings.php:144
+msgid "No Zoom meetings found"
+msgstr "Geen Zoom meetings gevonden"
+
+#: addons/tutor-zoom/views/pages/meetings.php:84
+msgid "Filter"
+msgstr "Filter"
+
+#: addons/tutor-zoom/views/pages/meetings.php:63
+msgid "All"
+msgstr ""
+
+#: addons/tutor-zoom/views/pages/meetings.php:54,
+#: addons/tutor-report/views/pages/courses/course-table.php:104
+msgid "Search in here."
+msgstr "Zoek hier."
+
+#: addons/tutor-zoom/views/pages/meetings.php:48
+msgid "Meeting List"
+msgstr "Meeting lijst"
+
+#: addons/tutor-zoom/views/pages/meetings.php:174
+msgid "No Zoom meetings have been added yet"
+msgstr "Er zijn nog geen Zoom meetings toegevoegd"
+
+#: addons/tutor-zoom/views/pages/meetings.php:170
+msgid "To add a new meeting, please open a course in editing mode."
+msgstr "Om een nieuwe bijeenkomst toe te voegen, open je een cursus in bewerkingsmodus."
+
+#: addons/tutor-zoom/views/pages/main.php:16
+msgid "Please set your API Credentials. Without valid credentials, Zoom integration will not work"
+msgstr "Stel uw API-inloggegevens in. Zonder geldige inloggegevens werkt Zoom-integratie niet"
+
+#: addons/tutor-zoom/views/pages/main.php:9
+msgid "Help"
+msgstr "Helpen"
+
+#: addons/tutor-zoom/views/pages/main.php:8,
+#: addons/tutor-zoom/views/pages/settings.php:46
+msgid "Settings"
+msgstr "Instellingen"
+
+#: addons/tutor-zoom/views/pages/main.php:7
+msgid "Set API"
+msgstr "Stel API in"
+
+#: addons/tutor-zoom/views/pages/main.php:6
+msgid "All Meetings"
+msgstr "Alle vergaderingen"
+
+#: addons/tutor-zoom/views/pages/help.php:65
+msgid "You will need a Microphone, a PC running Windows or Mac OS, and preferably a Webcam to effectively hold a live class."
+msgstr "Je hebt een microfoon nodig, een pc met Windows of Mac OS en bij voorkeur een webcam om effectief een live les te houden."
+
+#: addons/tutor-zoom/views/pages/help.php:61
+msgid "What Equipment Do I Need To Hold a Live Class?"
+msgstr "Welke apparatuur heb ik nodig om een live les te houden?"
+
+#: addons/tutor-zoom/views/pages/help.php:53
+msgid "Zoom follows a freemium monetization plan. Therefore, for smaller-scaled and limited operations, Zoom is free. However, for medium to larger websites, it's best to upgrade to a premium plan to get the most out of this platform."
+msgstr "Zoom volgt een freemium-plan voor het genereren van inkomsten. Daarom is Zoom gratis voor kleinschalige en beperkte bewerkingen. Voor middelgrote tot grotere websites is het echter het beste om te upgraden naar een premium abonnement om het meeste uit dit platform te halen."
+
+#: addons/tutor-zoom/views/pages/help.php:49
+msgid "Is Zoom Free to Use?"
+msgstr "Is Zoom gratis te gebruiken?"
+
+#: addons/tutor-zoom/views/pages/help.php:41
+msgid "here"
+msgstr "hier"
+
+#: addons/tutor-zoom/views/pages/help.php:41
+msgid "You can notify students about live lessons using Email Notifications and Announcements. Docs for Email Notifications can be found."
+msgstr "U kunt studenten informeren over live lessen met behulp van e-mailmeldingen en aankondigingen. Documenten voor e-mailmeldingen zijn te vinden."
+
+#: addons/tutor-zoom/views/pages/help.php:37
+msgid "How Do I Notify Students about Live Lessons?"
+msgstr "Hoe breng ik studenten op de hoogte van live lessen?"
+
+#: addons/tutor-zoom/views/pages/help.php:29
+msgid "You can create a live lesson by going into any Tutor LMS course editor. There, you will see a section called Zoom Meeting from where you can schedule a General Zoom meeting. You can also add lesson-specific meetings by navigating into any topic and then selecting the <strong>Zoom Live Lesson</strong> option."
+msgstr "U kunt een live les maken door naar een willekeurige Tutor LMS cursuseditor te gaan. Daar ziet u een sectie genaamd Zoom Meeting waar u een General Zoom meeting kunt plannen. U kunt ook lesspecifieke bijeenkomsten toevoegen door naar een onderwerp te navigeren en vervolgens de optie <strong> Zoom Live Les</strong> te selecteren."
+
+#: addons/tutor-zoom/views/pages/help.php:25
+msgid "How Do I Create a Live Lesson on Tutor MS?"
+msgstr "Hoe maak ik een live les met Tutor MS?"
+
+#: addons/tutor-zoom/views/pages/help.php:17
+msgid "To connect Zoom with your eLearning website powered by Tutor LMS, you need to first create an app on Zoom by following this link. Then create a JWT, copy the API Credentials, and paste it to the Tutor LMS backend by navigating to <strong>WP Admin > Tutor LMS Pro > Zoom > Set API</strong>."
+msgstr "Om Zoom te verbinden met uw eLearning-website, mogelijk gemaakt door Tutor LMS, moet u eerst een app op Zoom maken door deze link te volgen. Maak vervolgens een JWT, kopieer de API-inloggegevens en plak deze in de Tutor LMS-backend door naar <strong> WP Admin> Tutor LMS Pro> Zoom> API instellen </strong> te gaan."
+
+#: addons/tutor-zoom/views/pages/help.php:13
+msgid "How Do I Connect Zoom With my LMS Website?"
+msgstr "Hoe verbind ik Zoom met mijn LMS-website?"
+
+#: addons/tutor-zoom/views/modal/meeting.php:123
+msgid "Save Meeting"
+msgstr "Bewaar Meeting"
+
+#: addons/tutor-zoom/views/modal/meeting.php:102
+msgid "Cloud"
+msgstr "Cloud"
+
+#: addons/tutor-zoom/views/modal/meeting.php:101
+msgid "Local"
+msgstr "Lokaal"
+
+#: addons/tutor-zoom/views/modal/meeting.php:100,
+#: addons/tutor-zoom/views/pages/settings.php:35
+msgid "No Recordings"
+msgstr "Geen opnames"
+
+#: addons/tutor-zoom/views/modal/meeting.php:96
+msgid "Auto Recording"
+msgstr "Automatische opname"
+
+#: addons/tutor-zoom/views/modal/meeting.php:84
+msgid "Time Zone"
+msgstr "Tijdzone"
+
+#: addons/tutor-zoom/views/modal/meeting.php:72
+msgid "Minutes"
+msgstr "Minuten"
+
+#: addons/tutor-zoom/views/modal/meeting.php:65
+msgid "Meeting Duration"
+msgstr "Meetingsduur"
+
+#: addons/tutor-zoom/views/modal/meeting.php:47
+msgid "Meeting Time"
+msgstr "Meeting tijd"
+
+#: addons/tutor-zoom/views/modal/meeting.php:36
+msgid "Meeting Summary"
+msgstr "Meeting verslag"
+
+#: addons/tutor-zoom/views/modal/meeting.php:14
+msgid "Meeting Host"
+msgstr "Meeting gastheer"
+
+#: addons/tutor-zoom/views/metabox/meetings.php:30,
+#: addons/tutor-zoom/views/modal/meeting.php:27,
+#: addons/tutor-zoom/views/pages/meetings.php:101
+msgid "Meeting Name"
+msgstr "Meeting naam"
+
+#: addons/tutor-zoom/views/metabox/meetings.php:26,
+#: addons/tutor-zoom/views/pages/meetings.php:100
+msgid "Start Time"
+msgstr "Starttijd"
+
+#: addons/tutor-zoom/views/metabox/meetings.php:61,
+#: addons/tutor-zoom/views/metabox/meetings.php:49
+msgid "Create a Zoom Meeting"
+msgstr "Maak een Zoom Meeting"
+
+#: addons/tutor-zoom/views/metabox/meetings.php:58
+msgid "Connect with your students using Zoom"
+msgstr "Maak contact met uw studenten via Zoom"
+
+#: addons/tutor-report/views/pages/report.php:22
+msgid "LMS Report"
+msgstr "LMS rapport"
+
+#: addons/tutor-report/views/pages/report.php:8,
+#: addons/tutor-report/views/pages/sales/sales.php:33
+msgid "Sales"
+msgstr "Verkoop"
+
+#: addons/tutor-report/views/pages/overview.php:449
+msgid "Reply"
+msgstr "Antwoord"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:389
+msgid "Instructor application rejected (to teacher)"
+msgstr "Instructeursaanvraag afgewezen (naar docent)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:385
+msgid "Instructor application approved (to teacher)"
+msgstr "Instructeursaanvraag goedgekeurd (voor docent)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:381
+msgid "Instructor application received (to teacher)"
+msgstr "Instructeursaanvraag ontvangen (naar docent)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:377
+msgid "Withdrawal request approved (to teacher)"
+msgstr "Verzoek tot uitbetaling goedgekeurd (naar leraar)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:373
+msgid "Withdrawal request rejected (to teacher)"
+msgstr "Verzoek tot uitbetaling afgewezen (naar leraar)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:369
+msgid "New withdrawal request received (to teacher)"
+msgstr "Nieuw uitbetalingsverzoek ontvangen (aan leraar)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:365
+msgid "New withdrawal request (to admin)"
+msgstr "Nieuw uitbetalingsverzoek (naar admin)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:345
+msgid "Rate course and instructor (to student)"
+msgstr "Beoordeel cursus en instructeur (voor student)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:328
+msgid "Feedback submitted for quizname (to student)"
+msgstr "Feedback ingediend voor quiznaam (aan student)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:311
+msgid "Q&A message answered (to student)"
+msgstr "Q & A-bericht beantwoord (aan student)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:294
+msgid "New announcement posted to course (to students)"
+msgstr "Nieuwe aankondiging gepost op cursus (voor studenten)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:277
+msgid "Student removed from course (to student)"
+msgstr "Student verwijderd uit cursus (naar student)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:260
+msgid "Assignment has been Evaluate (to student)"
+msgstr "Opdracht is geëvalueerd (naar student)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:243
+msgid "New Assignment Submitted (to instructor)"
+msgstr "Nieuwe opdracht ingeleverd (aan docent)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:226
+msgid "Course Edited/Updated (to admin)"
+msgstr "Cursus bewerkt / bijgewerkt (naar admin)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:209
+msgid "New Course Published (to admin)"
+msgstr "Nieuwe cursus gepubliceerd (naar admin)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:192
+msgid "New Course Submitted for Review (to admin)"
+msgstr "Nieuwe cursus ingediend voor beoordeling (naar admin)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:175
+msgid "New Student Sign Up (to admin)"
+msgstr "Aanmelden nieuwe student (naar admin)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:158
+msgid "New Instructor Sign Up (to admin)"
+msgstr "Nieuwe instructeur aanmelden (voor admin)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:141
+msgid "Student completed Submitted quiz"
+msgstr "Student voltooide ingediende quiz"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:90
+msgid "Course Enrolled (to student)"
+msgstr "Cursus ingeschreven (voor student)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:23,
+#: addons/tutor-email/views/pages/tutor_emails.php:42,
+#: addons/tutor-email/views/pages/tutor_emails.php:60,
+#: addons/tutor-email/views/pages/tutor_emails.php:78,
+#: addons/tutor-email/views/pages/tutor_emails.php:96,
+#: addons/tutor-email/views/pages/tutor_emails.php:113,
+#: addons/tutor-email/views/pages/tutor_emails.php:130,
+#: addons/tutor-email/views/pages/tutor_emails.php:147,
+#: addons/tutor-email/views/pages/tutor_emails.php:164,
+#: addons/tutor-email/views/pages/tutor_emails.php:181,
+#: addons/tutor-email/views/pages/tutor_emails.php:198,
+#: addons/tutor-email/views/pages/tutor_emails.php:215,
+#: addons/tutor-email/views/pages/tutor_emails.php:232,
+#: addons/tutor-email/views/pages/tutor_emails.php:249,
+#: addons/tutor-email/views/pages/tutor_emails.php:266,
+#: addons/tutor-email/views/pages/tutor_emails.php:283,
+#: addons/tutor-email/views/pages/tutor_emails.php:300,
+#: addons/tutor-email/views/pages/tutor_emails.php:317,
+#: addons/tutor-email/views/pages/tutor_emails.php:334,
+#: addons/tutor-email/views/pages/tutor_emails.php:351,
+#: addons/tutor-email/views/pages/tutor_emails.php:405
+msgid "On"
+msgstr "Aan"
+
+#: addons/tutor-certificate/templates/default/certificate.php:62,
+#: addons/tutor-certificate/templates/template_1/certificate.php:57,
+#: addons/tutor-certificate/templates/template_10/certificate.php:48,
+#: addons/tutor-certificate/templates/template_11/certificate.php:52,
+#: addons/tutor-certificate/templates/template_12/certificate.php:46,
+#: addons/tutor-certificate/templates/template_2/certificate.php:45,
+#: addons/tutor-certificate/templates/template_3/certificate.php:44,
+#: addons/tutor-certificate/templates/template_4/certificate.php:48,
+#: addons/tutor-certificate/templates/template_5/certificate.php:57,
+#: addons/tutor-certificate/templates/template_6/certificate.php:47,
+#: addons/tutor-certificate/templates/template_7/certificate.php:53,
+#: addons/tutor-certificate/templates/template_8/certificate.php:47,
+#: addons/tutor-certificate/templates/template_9/certificate.php:55
+msgid "Valid Certificate ID"
+msgstr "Geldige certificaat-ID"
+
+#: addons/tutor-certificate/templates/default/certificate.php:41,
+#: addons/tutor-certificate/templates/template_1/certificate.php:35,
+#: addons/tutor-certificate/templates/template_10/certificate.php:30,
+#: addons/tutor-certificate/templates/template_11/certificate.php:32,
+#: addons/tutor-certificate/templates/template_12/certificate.php:31,
+#: addons/tutor-certificate/templates/template_2/certificate.php:30,
+#: addons/tutor-certificate/templates/template_3/certificate.php:39,
+#: addons/tutor-certificate/templates/template_4/certificate.php:30,
+#: addons/tutor-certificate/templates/template_5/certificate.php:41,
+#: addons/tutor-certificate/templates/template_6/certificate.php:30,
+#: addons/tutor-certificate/templates/template_7/certificate.php:30,
+#: addons/tutor-certificate/templates/template_8/certificate.php:32,
+#: addons/tutor-certificate/templates/template_9/certificate.php:31
+msgid "on"
+msgstr "op"
+
+#: addons/tutor-certificate/templates/default/certificate.php:39,
+#: addons/tutor-certificate/templates/template_1/certificate.php:33,
+#: addons/tutor-certificate/templates/template_10/certificate.php:28,
+#: addons/tutor-certificate/templates/template_11/certificate.php:30,
+#: addons/tutor-certificate/templates/template_12/certificate.php:29,
+#: addons/tutor-certificate/templates/template_2/certificate.php:28,
+#: addons/tutor-certificate/templates/template_3/certificate.php:37,
+#: addons/tutor-certificate/templates/template_4/certificate.php:28,
+#: addons/tutor-certificate/templates/template_5/certificate.php:39,
+#: addons/tutor-certificate/templates/template_6/certificate.php:28,
+#: addons/tutor-certificate/templates/template_7/certificate.php:28,
+#: addons/tutor-certificate/templates/template_8/certificate.php:30,
+#: addons/tutor-certificate/templates/template_9/certificate.php:29
+msgid "online course of"
+msgstr "online cursus van"
+
+#: addons/tutor-certificate/templates/default/certificate.php:39,
+#: addons/tutor-certificate/templates/template_1/certificate.php:33,
+#: addons/tutor-certificate/templates/template_10/certificate.php:28,
+#: addons/tutor-certificate/templates/template_11/certificate.php:30,
+#: addons/tutor-certificate/templates/template_12/certificate.php:29,
+#: addons/tutor-certificate/templates/template_2/certificate.php:28,
+#: addons/tutor-certificate/templates/template_3/certificate.php:37,
+#: addons/tutor-certificate/templates/template_4/certificate.php:28,
+#: addons/tutor-certificate/templates/template_5/certificate.php:39,
+#: addons/tutor-certificate/templates/template_6/certificate.php:28,
+#: addons/tutor-certificate/templates/template_7/certificate.php:28,
+#: addons/tutor-certificate/templates/template_8/certificate.php:30,
+#: addons/tutor-certificate/templates/template_9/certificate.php:29
+msgid "has successfully completed"
+msgstr "heeft succesvol afgerond"
+
+#: addons/tutor-certificate/templates/default/certificate.php:35,
+#: addons/tutor-certificate/templates/template_1/certificate.php:29,
+#: addons/tutor-certificate/templates/template_10/certificate.php:26,
+#: addons/tutor-certificate/templates/template_11/certificate.php:28,
+#: addons/tutor-certificate/templates/template_12/certificate.php:26,
+#: addons/tutor-certificate/templates/template_2/certificate.php:26,
+#: addons/tutor-certificate/templates/template_3/certificate.php:33,
+#: addons/tutor-certificate/templates/template_4/certificate.php:26,
+#: addons/tutor-certificate/templates/template_5/certificate.php:28,
+#: addons/tutor-certificate/templates/template_6/certificate.php:26,
+#: addons/tutor-certificate/templates/template_7/certificate.php:25,
+#: addons/tutor-certificate/templates/template_8/certificate.php:26,
+#: addons/tutor-certificate/templates/template_9/certificate.php:26
+msgid "This is to certify that"
+msgstr "Hierbij wordt verklaard dat"
+
+#: addons/tutor-certificate/templates/default/certificate.php:28,
+#: addons/tutor-certificate/templates/template_1/certificate.php:22,
+#: addons/tutor-certificate/templates/template_10/certificate.php:22,
+#: addons/tutor-certificate/templates/template_11/certificate.php:22,
+#: addons/tutor-certificate/templates/template_12/certificate.php:22,
+#: addons/tutor-certificate/templates/template_2/certificate.php:22,
+#: addons/tutor-certificate/templates/template_3/certificate.php:25,
+#: addons/tutor-certificate/templates/template_4/certificate.php:22,
+#: addons/tutor-certificate/templates/template_5/certificate.php:24,
+#: addons/tutor-certificate/templates/template_6/certificate.php:22,
+#: addons/tutor-certificate/templates/template_7/certificate.php:21,
+#: addons/tutor-certificate/templates/template_8/certificate.php:22,
+#: addons/tutor-certificate/templates/template_9/certificate.php:22
+msgid "minute"
+msgstr "minuut"
+
+#: addons/tutor-certificate/templates/default/certificate.php:28,
+#: addons/tutor-certificate/templates/template_1/certificate.php:22,
+#: addons/tutor-certificate/templates/template_10/certificate.php:22,
+#: addons/tutor-certificate/templates/template_11/certificate.php:22,
+#: addons/tutor-certificate/templates/template_12/certificate.php:22,
+#: addons/tutor-certificate/templates/template_2/certificate.php:22,
+#: addons/tutor-certificate/templates/template_3/certificate.php:25,
+#: addons/tutor-certificate/templates/template_4/certificate.php:22,
+#: addons/tutor-certificate/templates/template_5/certificate.php:24,
+#: addons/tutor-certificate/templates/template_6/certificate.php:22,
+#: addons/tutor-certificate/templates/template_7/certificate.php:21,
+#: addons/tutor-certificate/templates/template_8/certificate.php:22,
+#: addons/tutor-certificate/templates/template_9/certificate.php:22
+msgid "minutes"
+msgstr "minuten"
+
+#: addons/tutor-certificate/templates/default/certificate.php:24,
+#: addons/tutor-certificate/templates/template_1/certificate.php:18,
+#: addons/tutor-certificate/templates/template_10/certificate.php:18,
+#: addons/tutor-certificate/templates/template_11/certificate.php:18,
+#: addons/tutor-certificate/templates/template_12/certificate.php:18,
+#: addons/tutor-certificate/templates/template_2/certificate.php:18,
+#: addons/tutor-certificate/templates/template_3/certificate.php:21,
+#: addons/tutor-certificate/templates/template_4/certificate.php:18,
+#: addons/tutor-certificate/templates/template_5/certificate.php:20,
+#: addons/tutor-certificate/templates/template_6/certificate.php:18,
+#: addons/tutor-certificate/templates/template_7/certificate.php:17,
+#: addons/tutor-certificate/templates/template_8/certificate.php:18,
+#: addons/tutor-certificate/templates/template_9/certificate.php:18
+msgid "hour"
+msgstr "uur"
+
+#: addons/tutor-certificate/templates/default/certificate.php:24,
+#: addons/tutor-certificate/templates/template_1/certificate.php:18,
+#: addons/tutor-certificate/templates/template_10/certificate.php:18,
+#: addons/tutor-certificate/templates/template_11/certificate.php:18,
+#: addons/tutor-certificate/templates/template_12/certificate.php:18,
+#: addons/tutor-certificate/templates/template_2/certificate.php:18,
+#: addons/tutor-certificate/templates/template_3/certificate.php:21,
+#: addons/tutor-certificate/templates/template_4/certificate.php:18,
+#: addons/tutor-certificate/templates/template_5/certificate.php:20,
+#: addons/tutor-certificate/templates/template_6/certificate.php:18,
+#: addons/tutor-certificate/templates/template_7/certificate.php:17,
+#: addons/tutor-certificate/templates/template_8/certificate.php:18,
+#: addons/tutor-certificate/templates/template_9/certificate.php:18
+msgid "hours"
+msgstr "uren"
+
+#: addons/tutor-certificate/templates/default/certificate.php:15
+msgid "Certificate of Achievement"
+msgstr "Certificaat van voltooiing"
+
+#: addons/tutor-certificate/templates/default/certificate.php:14
+msgid "VERIFIED"
+msgstr "GEVERIFIEERD"
+
+#: addons/tutor-assignments/views/pages/submitted_assignment.php:109
+msgid "Write a feedback"
+msgstr "Schrijf een feedback"
+
+#: addons/tutor-assignments/views/pages/submitted_assignment.php:103
+msgid "Only number is allowed"
+msgstr "Alleen nummer is toegestaan"
+
+#: addons/tutor-assignments/views/pages/submitted_assignment.php:56
+msgid "Assignment File"
+msgstr ""
+
+#: addons/tutor-assignments/views/pages/submitted_assignment.php:40
+msgid "Submitted Date:"
+msgstr ""
+
+#: addons/tutor-assignments/views/pages/submitted_assignment.php:35
+msgid "Student:"
+msgstr ""
+
+#: addons/tutor-assignments/views/pages/submitted_assignment.php:20
+msgid "Back"
+msgstr "Terug"
+
+#: addons/tutor-assignments/views/modal/assignments.php:140
+msgid "Assignment Updated"
+msgstr "Opdracht bijgewerkt"
+
+#: addons/tutor-assignments/views/modal/assignments.php:140
+msgid "Success"
+msgstr "Succes"
+
+#: addons/tutor-assignments/views/modal/assignments.php:140
+msgid "Action Failed"
+msgstr "Actie mislukt"
+
+#: addons/tutor-assignments/views/modal/assignments.php:140
+msgid "Error"
+msgstr "Fout"
+
+#: addons/tutor-assignments/views/modal/assignments.php:85,
+#: addons/tutor-zoom/views/modal/meeting.php:73
+msgid "Hours"
+msgstr "Uren"
+
+#: addons/tutor-assignments/views/modal/assignments.php:83
+msgid "Weeks"
+msgstr "Weken"
+
+#: addons/google-classroom/views/email/auto-registration-verification.php:33,
+#: addons/tutor-report/views/pages/courses/course-single.php:287,
+#: addons/tutor-report/views/pages/students/student-table.php:35
+msgid "Email"
+msgstr "E-mail"
+
+#: addons/google-classroom/views/email/auto-registration-verification.php:18
+msgid "You are now enrolled in a course on %site_url% from Google Classroom %class_name%. Your validated credentials for %site_url% are attached below."
+msgstr "Je bent nu ingeschreven voor een cursus op %site_url% van Google Classroom %class_name%. Uw gevalideerde inloggegevens voor %site_url% zijn hieronder bijgevoegd."
+
+#: addons/google-classroom/views/email/auto-registration-verification.php:14
+msgid "Hello"
+msgstr "Hallo"
+
+#: addons/google-classroom/views/email/auto-registration-verification.php:10
+msgid "Please, Verify Your Email Address"
+msgstr "Verifieer uw email adres alstublieft"
+
+#: addons/google-classroom/views/components/stream.php:12
+msgid "Go to Classroom"
+msgstr "Ga naar Classroom"
+
+#: addons/google-classroom/views/components/start-class.php:3
+msgid "Start Course"
+msgstr "Start cursus"
+
+#: addons/google-classroom/views/components/password-setup.php:18
+msgid "Set Password"
+msgstr "Stel een wachtwoord in"
+
+#: addons/google-classroom/views/components/password-setup.php:10
+msgid "Re-type Password"
+msgstr "Geef nogmaals het wachtwoord"
+
+#: addons/google-classroom/views/components/import-credential.php:19
+msgid "Load Credentials"
+msgstr "Haal gegevens op"
+
+#: addons/google-classroom/views/components/import-credential.php:14
+msgid "Browse File"
+msgstr "Bestand zoeken"
+
+#: addons/google-classroom/views/components/import-credential.php:13
+msgid "or"
+msgstr "of"
+
+#: addons/google-classroom/views/components/import-credential.php:11
+msgid "Drag & Drop your JSON File here"
+msgstr "Sleep uw JSON-bestand hierheen"
+
+#: addons/google-classroom/views/components/import-credential.php:3
+msgid "Create OAuth access data and upload Credentials JSON from %s Google Console %s. As a redirect URI set %s"
+msgstr "Maak OAuth-toegangsgegevens en upload de JSON-aanmeldingsgegevens van %s Google Console %s. Als een omleidings-URI stel %s in"
+
+#: addons/google-classroom/views/components/footer-settings.php:52
+msgid "Only logged in students can see the classroom invite code"
+msgstr "Alleen ingelogde studenten kunnen de uitnodigingscode voor de klas zien"
+
+#: addons/google-classroom/views/components/footer-settings.php:43
+msgid "Control the visibility and privacy for the Google Classroom data"
+msgstr "Beheer de zichtbaarheid en privacy voor de Google Classroom-gegevens"
+
+#: addons/google-classroom/views/components/footer-settings.php:42
+msgid "Classroom Access Settings"
+msgstr "Instellingen voor toegang tot klaslokalen"
+
+#: addons/google-classroom/views/components/footer-settings.php:33
+msgid "Classlist Shortcode:"
+msgstr "Classlist Shortcode:"
+
+#: addons/google-classroom/views/components/footer-settings.php:28
+msgid "Google Classroom Account"
+msgstr "Google Classroom-account"
+
+#: addons/google-classroom/views/components/footer-settings.php:19
+msgid "Use Another Account"
+msgstr "Gebruik een ander account"
+
+#: addons/google-classroom/views/components/footer-settings.php:18
+msgid "Sure to use another account?"
+msgstr "Weet u zeker dat u een ander account wilt gebruiken?"
+
+#: addons/google-classroom/views/components/footer-settings.php:13
+msgid "Here is a list of Classrooms on your current Google account."
+msgstr "Hier is een lijst met Classrooms op uw huidige Google-account."
+
+#: addons/google-classroom/views/components/footer-settings.php:12
+msgid "Classroom List"
+msgstr "Klaslokaal lijst"
+
+#: addons/google-classroom/views/components/consent-screen.php:16
+msgid "Change Credential"
+msgstr "Verander kwalificatie"
+
+#: addons/google-classroom/views/components/consent-screen.php:12
+msgid "Allow Permissions"
+msgstr "Toestemmingen toestaan"
+
+#: addons/google-classroom/views/components/consent-screen.php:3
+msgid "Press the button to grant permissions to your Google Classroom. Please allow all required permissions."
+msgstr "Druk op de knop om machtigingen te verlenen aan je Google Classroom. Sta alstublieft alle vereiste toestemmingen toe."
+
+#: addons/google-classroom/views/components/consent-screen.php:2
+msgid "Please complete the authorization process"
+msgstr "Voltooi het autorisatieproces"
+
+#: addons/google-classroom/views/components/class-list.php:87
+msgid "Restore"
+msgstr "Herstellen"
+
+#: addons/google-classroom/views/components/class-list.php:86
+msgid "Edit"
+msgstr "Bewerk"
+
+#: addons/google-classroom/views/components/class-list.php:85
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: addons/google-classroom/views/components/class-list.php:84
+msgid "Publish"
+msgstr "Publiceren"
+
+#: addons/google-classroom/views/components/class-list.php:26
+msgid "Apply"
+msgstr "Pas toe"
+
+#: addons/google-classroom/views/components/class-list.php:23
+msgid "Delete Permanently"
+msgstr "Permanent verwijderen"
+
+#: addons/google-classroom/views/components/class-list.php:12
+msgid "Class Code"
+msgstr "Klas code"
+
+#: addons/google-classroom/views/components/class-list.php:10
+msgid "Import Date"
+msgstr "Importdatum"
+
+#: addons/google-classroom/views/components/class-list.php:9
+msgid "Class Name"
+msgstr "Naam van de klas"
+
+#: addons/google-classroom/views/components/class-list.php:6
+msgid "Select All"
+msgstr "Selecteer alles"
+
+#: addons/google-classroom/views/components/class-list-shortcode.php:77
+msgid "Next"
+msgstr "Volgende"
+
+#: addons/google-classroom/views/components/class-list-shortcode.php:69
+msgid "Previous"
+msgstr "Vorige"
+
+#: addons/google-classroom/views/components/class-list-shortcode.php:54
+msgid "No Class"
+msgstr "Geen les"
+
+#: addons/google-classroom/views/components/class-list-shortcode.php:29
+msgid "Only logged in students in a specific classrooom can join."
+msgstr "Alleen ingelogde studenten in een bepaalde klas kunnen deelnemen."
+
+#: addons/google-classroom/views/components/class-list-shortcode.php:37,
+#: addons/google-classroom/views/components/stream.php:6
+msgid "Code"
+msgstr "Code"
+
+#: templates/single/quiz/previous-attempts.php:88
+msgid "Under Review"
+msgstr "Onderzocht"
+
+#: templates/single/course/zoom-meetings.php:64
+msgid "Continue to Meeting"
+msgstr "Ga door naar Meeting"
+
+#: templates/single/course/zoom-meetings.php:41,
+#: addons/tutor-report/views/pages/courses/course-single.php:285,
+#: addons/tutor-report/views/pages/courses/course-single.php:360,
+#: addons/tutor-report/views/pages/students/student-table.php:32
+msgid "ID"
+msgstr "ID"
+
+#: templates/single/course/zoom-meetings.php:34
+msgid "Expired"
+msgstr "Niet meer geldig"
+
+#: templates/single/course/zoom-meetings.php:36
+msgid "Live"
+msgstr "Live"
+
+#: templates/single/course/zoom-meetings.php:18,
+#: addons/tutor-zoom/views/metabox/meetings.php:12
+msgid "Zoom Live Meetings"
+msgstr "Zoom Live Meetings"
+
+#: addons/tutor-zoom/classes/Zoom.php:429
+msgid "Zoom successfully connected"
+msgstr "Zoom succesvol verbonden"
+
+#: addons/tutor-zoom/classes/Zoom.php:431
+msgid "Please Enter Valid Credentials"
+msgstr "Voer geldige inloggegevens in"
+
+#: addons/tutor-zoom/classes/Zoom.php:408,
+#: addons/tutor-zoom/classes/Zoom.php:420
+msgid "Settings Updated"
+msgstr "Instellingen bijgewerkt"
+
+#: addons/tutor-zoom/classes/Zoom.php:354
+msgid "Meeting Successfully Deleted"
+msgstr "Meeting succesvol verwijderd"
+
+#: addons/tutor-zoom/classes/Zoom.php:316
+msgid "Meeting Successfully Saved"
+msgstr "Meeting succesvol opgeslagen"
+
+#: addons/tutor-zoom/classes/Zoom.php:324,
+#: addons/tutor-zoom/classes/Zoom.php:360
+msgid "Invalid Api Credentials"
+msgstr "Ongeldige API-inloggegevens"
+
+#: addons/tutor-zoom/classes/Zoom.php:156
+msgid "Zoom Live Lesson"
+msgstr "Zoom Live Les"
+
+#: addons/tutor-zoom/classes/Zoom.php:124,
+#: addons/tutor-zoom/classes/Zoom.php:124,
+#: addons/tutor-zoom/views/pages/main.php:27
+msgid "Zoom"
+msgstr "Zoom"
+
+#: addons/tutor-zoom/classes/Zoom.php:78
+msgid "Description."
+msgstr "Omschrijving."
+
+#: addons/tutor-zoom/classes/Zoom.php:73
+msgid "No Meetings found in Trash."
+msgstr "Geen vergaderingen gevonden in prullenbak."
+
+#: addons/tutor-zoom/classes/Zoom.php:72
+msgid "No Meeting found."
+msgstr "Geen vergadering gevonden."
+
+#: addons/tutor-zoom/classes/Zoom.php:71
+msgid "Parent Meetings:"
+msgstr "Oudervergaderingen:"
+
+#: addons/tutor-zoom/classes/Zoom.php:70
+msgid "Search Meetings"
+msgstr "Zoek Meetings"
+
+#: addons/tutor-zoom/classes/Zoom.php:69
+msgid "Meetings"
+msgstr "Meetings"
+
+#: addons/tutor-zoom/classes/Zoom.php:68
+msgid "View Meeting"
+msgstr "Bekijk Meeting"
+
+#: addons/tutor-zoom/classes/Zoom.php:67
+msgid "Edit Meeting"
+msgstr "Vergadering bewerken"
+
+#: addons/tutor-zoom/classes/Zoom.php:66
+msgid "New Meeting"
+msgstr "Nieuwe vergadering"
+
+#: addons/tutor-zoom/classes/Zoom.php:65
+msgid "Add New Meeting"
+msgstr ""
+
+#: addons/tutor-zoom/classes/Zoom.php:64
+msgctxt "$this->zoom_meeting_post_type"
+msgid "Add New"
+msgstr ""
+
+#: addons/tutor-zoom/classes/Zoom.php:63
+msgctxt "add new on admin bar"
+msgid "Meeting"
+msgstr "Meeting"
+
+#: addons/tutor-zoom/classes/Zoom.php:62
+msgctxt "admin menu"
+msgid "Meetings"
+msgstr "Meetings"
+
+#: addons/tutor-zoom/classes/Zoom.php:61
+msgctxt "post type singular name"
+msgid "Meeting"
+msgstr "Meeting"
+
+#: addons/tutor-zoom/classes/Zoom.php:60
+msgctxt "post type general name"
+msgid "Meetings"
+msgstr "Meetings"
+
+#: addons/tutor-email/classes/init.php:137
+msgid "Select when to send notification to the admin"
+msgstr "Selecteer wanneer u een melding naar de beheerder wilt sturen"
+
+#: addons/tutor-email/classes/init.php:134
+msgid "Course Edited/Updated"
+msgstr "Cursus bewerkt / bijgewerkt"
+
+#: addons/tutor-email/classes/init.php:133
+msgid "New Course Published"
+msgstr "Nieuwe cursus gepubliceerd"
+
+#: addons/tutor-email/classes/init.php:132
+msgid "New Course Submitted for Review"
+msgstr "Nieuwe cursus ingediend voor beoordeling"
+
+#: addons/tutor-email/classes/init.php:131
+msgid "New Student Signup"
+msgstr "Aanmelding voor nieuwe studenten"
+
+#: addons/tutor-email/classes/init.php:130
+msgid "New Instructor Signup"
+msgstr "Nieuwe aanmelding als instructeur"
+
+#: addons/tutor-email/classes/init.php:128
+msgid "E-Mail to Admin"
+msgstr "E-mail naar Admin"
+
+#: addons/tutor-email/classes/init.php:121
+msgid "Instructor Application Rejected"
+msgstr "Instructeursaanvraag afgewezen"
+
+#: addons/tutor-email/classes/init.php:120
+msgid "Instructor Application Accepted "
+msgstr "Instructeursaanvraag geaccepteerd "
+
+#: addons/tutor-email/classes/init.php:118
+msgid "Withdrawal Request Rejected"
+msgstr "Verzoek tot uitbetaling afgewezen"
+
+#: addons/tutor-email/classes/init.php:117
+msgid "Withdrawal Request Approved"
+msgstr "Verzoek tot uitbetaling goedgekeurd"
+
+#: addons/tutor-email/classes/init.php:116
+msgid "Student Submitted Assignment"
+msgstr "Door student ingeleverde opdracht"
+
+#: addons/tutor-email/classes/init.php:115
+msgid "Student Submitted Quiz"
+msgstr "Door student ingezonden quiz"
+
+#: addons/tutor-email/classes/init.php:103
+msgid "Rate Course and Instructor After Course Completed"
+msgstr "Beoordeel cursus en instructeur nadat de cursus is voltooid"
+
+#: addons/tutor-email/classes/init.php:102
+msgid "Feedback submitted for Quiz Attempt"
+msgstr "Feedback ingediend voor quizpoging"
+
+#: addons/tutor-email/classes/init.php:101
+msgid "Q&A Message Answered"
+msgstr "Q & A-bericht beantwoord"
+
+#: addons/tutor-email/classes/init.php:100
+msgid "New Announcement Posted"
+msgstr "Nieuwe aankondiging geplaatst"
+
+#: addons/tutor-email/classes/init.php:99
+msgid "Assignment Graded"
+msgstr "Opdracht beoordeeld"
+
+#: addons/tutor-email/classes/init.php:98
+msgid "Remove from Course"
+msgstr "Verwijderen uit cursus"
+
+#: addons/tutor-email/classes/EmailNotification.php:1539,
+#: addons/tutor-email/classes/init.php:119
+msgid "Withdrawal Request Received"
+msgstr "Verzoek tot uitbetaling ontvangen"
+
+#: addons/tutor-email/classes/EmailNotification.php:1510,
+#: addons/tutor-email/classes/init.php:135
+msgid "New Withdrawal Request"
+msgstr "Nieuw uitbetalingsverzoek"
+
+#: addons/tutor-email/classes/EmailNotification.php:1479
+msgid "Withdrawal Request Rejection"
+msgstr "Afwijzing verzoek tot uitbetaling"
+
+#: addons/tutor-email/classes/EmailNotification.php:1450
+msgid "Withdrawal Request Approval"
+msgstr "Verzoek tot uitbetaling goedkeuring"
+
+#: addons/tutor-email/classes/EmailNotification.php:1412
+msgid "Instructor Application Rejection"
+msgstr "Afwijzing van aanvraag van instructeur"
+
+#: addons/tutor-email/classes/EmailNotification.php:1377
+msgid "Instructor Application Approval"
+msgstr "Goedkeuring instructeursaanvraag"
+
+#: addons/tutor-email/classes/EmailNotification.php:1124
+msgid "New Announcement on course"
+msgstr "Nieuwe aankondiging voor cursus"
+
+#: addons/tutor-email/classes/EmailNotification.php:1127
+msgid "Announcement updated on course"
+msgstr "Aankondiging bijgewerkt op cursus"
+
+#: addons/tutor-email/classes/EmailNotification.php:683,
+#: addons/tutor-email/classes/init.php:122
+msgid "Instructor Application Received"
+msgstr "Instructeursaanvraag ontvangen"
+
+#: addons/tutor-course-attachments/classes/CourseAttachments.php:55,
+#: addons/tutor-course-attachments/classes/CourseAttachments.php:62
+msgid "Resources"
+msgstr "Middelen"
+
+#: addons/tutor-course-attachments/classes/CourseAttachments.php:44
+msgid "How you want users to view attached files."
+msgstr "Hoe u wilt dat gebruikers bijgevoegde bestanden bekijken."
+
+#: addons/tutor-course-attachments/classes/CourseAttachments.php:42
+msgid "View in new tab"
+msgstr "Bekijk in nieuw tabblad"
+
+#: addons/tutor-course-attachments/classes/CourseAttachments.php:41
+msgid "Download"
+msgstr "Downloaden"
+
+#: addons/tutor-course-attachments/classes/CourseAttachments.php:37
+msgid "Attachment Open Mode"
+msgstr "Bijlage Open Mode"
+
+#: addons/tutor-certificate/classes/Instructor_Signature.php:60
+msgid "no text on the image"
+msgstr "geen tekst op de afbeelding"
+
+#: addons/tutor-certificate/classes/Instructor_Signature.php:60
+msgid "File Support"
+msgstr "Bestandsondersteuning"
+
+#: addons/tutor-certificate/classes/Instructor_Signature.php:59
+msgid "pixels"
+msgstr "pixels"
+
+#: addons/tutor-certificate/classes/Instructor_Signature.php:59
+msgid "Guidelines"
+msgstr "Richtlijnen"
+
+#: addons/tutor-certificate/classes/Instructor_Signature.php:44
+msgid "Certificate Signature"
+msgstr "Certificaat handtekening"
+
+#: addons/tutor-certificate/classes/init.php:126
+msgid "By enabling this option, the student will be able to verify and share their certificates URL which is publicly accessible"
+msgstr "Door deze optie in te schakelen, kan de student de URL van zijn certificaat verifiëren en delen, die openbaar toegankelijk is"
+
+#: addons/tutor-certificate/classes/init.php:124,
+#: addons/tutor-certificate/views/lesson-menu-after.php:33
+msgid "View Certificate"
+msgstr "Bekijk certificaat"
+
+#: addons/tutor-certificate/classes/init.php:114
+msgid "Show instructor name on certificate before Authorised Name"
+msgstr "Toon instructeursnaam op certificaat vóór gemachtigde naam"
+
+#: addons/tutor-certificate/classes/init.php:113
+msgid "Show instructor name on certificate"
+msgstr "Toon instructeursnaam op certificaat"
+
+#: addons/tutor-certificate/classes/Certificate.php:401
+msgid "Disable Certificate"
+msgstr "Schakel certificaat uit"
+
+#: addons/tutor-certificate/classes/Certificate.php:377
+msgid "My course completion certificate for"
+msgstr "Mijn certificaat voor voltooiing van de cursus voor"
+
+#: addons/tutor-certificate/classes/Certificate.php:376
+msgid "Course Completion Certificate"
+msgstr "Certificaat voor voltooiing van de cursus"
+
+#: addons/tutor-assignments/classes/Assignments_List.php:109
+msgid "Assignment Name"
+msgstr "Opdracht naam"
+
+#: addons/tutor-assignments/classes/Assignments_List.php:95
+msgid "Yes"
+msgstr "Ja"
+
+#: addons/tutor-assignments/classes/Assignments_List.php:95,
+#: addons/tutor-report/views/pages/courses/course-single.php:433,
+#: addons/tutor-report/views/pages/students/student-profile.php:322
+msgid "No"
+msgstr "Nee"
+
+#: addons/tutor-assignments/classes/Assignments_List.php:67
+msgid "Deadline"
+msgstr "Deadline"
+
+#: addons/tutor-assignments/classes/Assignments_List.php:59
+msgid "No Limit"
+msgstr "Geen limiet"
+
+#: addons/tutor-assignments/classes/Assignments_List.php:49,
+#: addons/tutor-assignments/views/pages/submitted_assignment.php:30,
+#: addons/tutor-zoom/views/pages/meetings.php:124
+msgid "Course:"
+msgstr "Cursus:"
+
+#: addons/restrict-content-pro/classes/RestrictContent.php:63
+msgid "Get Membership"
+msgstr "Lid worden"
+
+#: addons/quiz-import-export/classes/QuizImportExport.php:257
+msgid "Export"
+msgstr "Exporteren"
+
+#: addons/quiz-import-export/classes/QuizImportExport.php:31
+msgid "Import Quiz"
+msgstr "Quiz importeren"
+
+#: addons/pmpro/classes/PaidMembershipsPro.php:171
+msgid "Free"
+msgstr "Vrij"
+
+#: addons/pmpro/classes/PaidMembershipsPro.php:171
+msgid "Membership Required"
+msgstr "Lidmaatschap vereist"
+
+#: addons/google-classroom/classes/init.php:209,
+#: addons/google-classroom/classes/init.php:216
+msgid "Stream"
+msgstr "Stream"
+
+#: addons/google-classroom/classes/init.php:189,
+#: addons/google-classroom/classes/init.php:189,
+#: addons/google-classroom/views/classroom-dashboard.php:2
+msgid "Google Classroom"
+msgstr "Google Classroom"
+
+#: addons/google-classroom/classes/init.php:122,
+#: addons/google-classroom/classes/init.php:173
+msgid "Connect Tutor Course"
+msgstr "Connect Tutor Cursus"
+
+#: addons/google-classroom/classes/Classroom.php:522
+msgid "Password Setup"
+msgstr "Wachtwoord instellen"
+
+#: addons/enrollments/classes/Enrollments_List.php:87
+msgid "Enrollment Status"
+msgstr "Inschrijving status"
+
+#: addons/enrollments/classes/Enrollments.php:88
+msgid "Maximum student is reached!"
+msgstr "Maximaal aantal studenten is bereikt!"
+
+#: addons/content-drip/classes/ContentDrip.php:327
+msgid "If you use OS native cron, then disable it."
+msgstr "Als u de native cron van het besturingssysteem gebruikt, schakelt u deze uit."
+
+#: addons/content-drip/classes/ContentDrip.php:325
+msgid "Disable WP Cron"
+msgstr "Schakel WP Cron uit"
+
+#: addons/content-drip/classes/ContentDrip.php:324
+msgid "Content Drip Mailer Cron"
+msgstr "Inhoud druppelen Mailer Cron"
+
+#: addons/content-drip/classes/ContentDrip.php:287,
+#: addons/content-drip/classes/ContentDrip.php:308
+msgid "Content Drip: New Assignment Published"
+msgstr "Inhoud druppelen: Nieuwe opdracht gepubliceerd"
+
+#: addons/content-drip/classes/ContentDrip.php:286,
+#: addons/content-drip/classes/ContentDrip.php:303
+msgid "Content Drip: New Quiz Published"
+msgstr "Inhoud druppelen: Nieuwe quiz gepubliceerd"
+
+#: addons/content-drip/classes/ContentDrip.php:285,
+#: addons/content-drip/classes/ContentDrip.php:298
+msgid "Content Drip: New Lesson Published"
+msgstr "Inhoud druppelen: Nieuwe les gepubliceerd"
+
+#: addons/content-drip/classes/ContentDrip.php:68
+msgid "Content Drip Type"
+msgstr "Inhoud druppelen type"
+
+#: addons/buddypress/views/bp-group-course.php:24
+msgid "Assign this course to BuddyPress Groups"
+msgstr "Wijs deze cursus toe aan BuddyPress-groepen"
+
+#: addons/buddypress/classes/BuddyPressGroupSettings.php:90
+msgid "User finished quiz"
+msgstr "Gebruiker heeft de quiz voltooid"
+
+#: addons/buddypress/classes/BuddyPressGroupSettings.php:86
+msgid "User started quiz"
+msgstr "Gebruiker gestart met quiz"
+
+#: addons/buddypress/classes/BuddyPressGroupSettings.php:80
+msgid "User updated a lesson"
+msgstr "De gebruiker heeft een les bijgewerkt"
+
+#: addons/buddypress/classes/BuddyPressGroupSettings.php:76
+msgid "User creates a lesson"
+msgstr "De gebruiker maakt een les"
+
+#: addons/buddypress/classes/BuddyPressGroupSettings.php:71
+msgid "User completes a course"
+msgstr "Gebruiker voltooit een cursus"
+
+#: addons/buddypress/classes/BuddyPressGroupSettings.php:66
+msgid "User Starts a course"
+msgstr "Gebruiker start een cursus"
+
+#: addons/buddypress/classes/BuddyPressGroupSettings.php:61
+msgid "User Enrolled a course"
+msgstr "Gebruiker heeft zich voor een cursus ingeschreven"
+
+#: addons/buddypress/classes/BuddyPressGroupSettings.php:55
+msgid "Which Tutor LMS activity should be displayed in this group?"
+msgstr "Welke Tutor LMS activiteit moet in deze groep worden weergegeven?"
+
+#: addons/buddypress/classes/BuddyPressGroupSettings.php:22
+msgid "Course Settings"
+msgstr "Cursusinstellingen"
+
+#: addons/buddypress/classes/BuddyPressGroups.php:493
+msgid "Done with %s, it was a challenging quiz."
+msgstr "Klaar met %s, het was een uitdagende quiz."
+
+#: addons/buddypress/classes/BuddyPressGroups.php:435
+msgid "I just started taking the quiz %s, come and take it with me."
+msgstr "Ik ben net begonnen met het doen van de quiz %s, kom en neem hem mee."
+
+#: addons/buddypress/classes/BuddyPressGroups.php:394
+msgid "I updated my lesson on %s to add more relevant content. See what’s new!"
+msgstr "Ik heb mijn les op %s bijgewerkt om meer relevante inhoud toe te voegen. Zie wat er nieuw is"
+
+#: addons/buddypress/classes/BuddyPressGroups.php:350
+msgid "I have created a new lesson %s for my course %s. Go check it out!"
+msgstr "Ik heb een nieuwe les %s gemaakt voor mijn cursus %s. Ga het bekijken!"
+
+#: addons/buddypress/classes/BuddyPressGroups.php:310
+msgid "Starting with %s from today. Wish me luck! "
+msgstr "Beginnend met %s vanaf vandaag. Wens me succes!"
+
+#: addons/buddypress/classes/BuddyPressGroups.php:271
+msgid "Just got enrolled in %s, looks very promising! You should check it out as well. "
+msgstr "Ik ben net ingeschreven voor %s, ziet er veelbelovend uit! Je moet het ook eens bekijken. "
+
+#: addons/buddypress/classes/BuddyPressGroups.php:230
+msgid "I just completed learning %s. It was super insightful!"
+msgstr "Ik heb net %s geleerd. Het was super inzichtelijk!"
+
+#: addons/buddypress/classes/BuddyPressGroups.php:57
+msgid "Enable / Disable BuddyPress group activity feeds"
+msgstr "Activeer / deactiveer BuddyPress-groepsactiviteitenfeeds"
+
+#: addons/buddypress/classes/BuddyPressGroups.php:48
+msgid "Assign this course to a BuddyPress Group"
+msgstr "Wijs deze cursus toe aan een BuddyPress-groep"
+
+#: addons/buddypress/classes/BuddyPressGroups.php:47,
+#: addons/buddypress/views/bp-group-course.php:9
+msgid "BuddyPress Groups"
+msgstr "BuddyPress groepen"
+
+#: templates/buddypress/message_thread_recipients.php:69
+msgid "Enrolled in total %s courses by you"
+msgstr "Door jou ingeschreven voor total %s cursussen"
+
+#: templates/buddypress/message_thread_recipients.php:26,
+#: addons/tutor-report/views/pages/sales/sales.php:43
+msgid "Instructor"
+msgstr "Instructeur"
+
+#: addons/wc-subscriptions/wc-subscriptions.php:30
+msgid "Capture Residual Revenue with Recurring Payments."
+msgstr "Leg restopbrengsten vast met terugkerende betalingen."
+
+#: addons/tutor-zoom/tutor-zoom.php:31
+msgid "Connect Tutor LMS with Zoom to host live online classes. Students can attend live classes right from the lesson page."
+msgstr "Verbind Tutor LMS met Zoom om live online lessen te hosten. Studenten kunnen rechtstreeks vanaf de lespagina live lessen bijwonen."
+
+#: addons/tutor-zoom/tutor-zoom.php:30
+msgid "Zoom Integration"
+msgstr "Zoom integratie"
+
+#: addons/tutor-report/tutor-report.php:30
+msgid "Check your course performance through Tutor Report stats."
+msgstr "Controleer uw cursusprestaties via Tutor Report-statistieken."
+
+#: addons/tutor-prerequisites/tutor-prerequisites.php:30
+msgid "Specific course you must complete before you can enroll new course by Tutor Prerequisites"
+msgstr "Specifieke cursus die u moet voltooien voordat u een nieuwe cursus kunt inschrijven via Tutor vereisten"
+
+#: addons/tutor-multi-instructors/tutor-multi-instructors.php:30
+msgid "Start a course with multiple instructors by Tutor Multi Instructors"
+msgstr "Start een cursus met meerdere instructeurs door Tutor Multi Instructors"
+
+#: addons/tutor-email/tutor-email.php:30
+msgid "Send email on various tutor events"
+msgstr "Stuur een e-mail over verschillende tutor evenementen"
+
+#: addons/tutor-course-preview/tutor-course-preview.php:30
+msgid "Unlock some lessons for students before enrollment."
+msgstr "Ontgrendel enkele lessen voor studenten voordat ze zich inschrijven."
+
+#: addons/tutor-course-attachments/tutor-course-attachments.php:30
+msgid "Add unlimited attachments/ private files to any Tutor course"
+msgstr "Voeg onbeperkte bijlagen / privébestanden toe aan elke Tutor-cursus"
+
+#: addons/tutor-certificate/tutor-certificate.php:30
+msgid "Students will be able to download a certificate after course completion."
+msgstr "Studenten kunnen een certificaat downloaden nadat de cursus is voltooid."
+
+#: addons/tutor-assignments/tutor-assignments.php:30
+msgid "Tutor assignments is a great way to assign tasks to students."
+msgstr "Tutoropdrachten is een geweldige manier om taken aan studenten toe te wijzen."
+
+#: addons/restrict-content-pro/restrict-content-pro.php:30
+msgid "Unlock Course depending on Restrict Content Permission."
+msgstr "Ontgrendel cursus afhankelijk van toestemming voor inhoud beperken."
+
+#: addons/restrict-content-pro/restrict-content-pro.php:29,
+#: addons/restrict-content-pro/classes/init.php:84
+msgid "Restrict Content Pro"
+msgstr "Beperk Content Pro"
+
+#: addons/pmpro/pmpro.php:30
+msgid "Maximize revenue by selling membership access to all of your courses."
+msgstr "Maximaliseer uw inkomsten door lidmaatschapstoegang tot al uw cursussen te verkopen."
+
+#: addons/gradebook/gradebook.php:30
+msgid "Shows student progress from assignment and quiz"
+msgstr "Toont de voortgang van de studenten van opdracht en quiz"
+
+#: addons/google-classroom/google-classroom.php:30
+msgid "Helps connect Google Classrooms with Tutor LMS courses, allowing you to use features like Classroom streams and files directly from the Tutor LMS course."
+msgstr "Helpt Google Classrooms te verbinden met Tutor LMS-cursussen, zodat u functies zoals Classroom-streams en bestanden rechtstreeks vanuit de Tutor LMS-cursus kunt gebruiken."
+
+#: addons/google-classroom/google-classroom.php:29
+msgid "Google Classroom Integration"
+msgstr "Google Classroom-integratie"
+
+#: addons/enrollments/enrollments.php:30
+msgid "Take advanced control on enrollments. Enroll the student manually."
+msgstr "Neem geavanceerde controle over inschrijvingen. Schrijf de student handmatig in."
+
+#: addons/content-drip/content-drip.php:30
+msgid "Unlock lessons by schedule or when the student meets specific condition."
+msgstr "Ontgrendel lessen volgens schema of wanneer de student aan een specifieke voorwaarde voldoet."
+
+#: addons/buddypress/buddypress.php:30
+msgid "Discuss about course and share your knowledge with your friends through BuddyPress"
+msgstr "Bespreek een cursus en deel uw kennis met uw vrienden via BuddyPress"
+
+#: addons/buddypress/buddypress.php:29
+msgid "BuddyPress"
+msgstr "BuddyPress"
+
+#: templates/single-zoom-meeting.php:64,
+#: templates/single/course/zoom-meetings.php:55
+msgid "Please contact your instructor for further information"
+msgstr "Neem contact op met je instructeur voor meer informatie"
+
+#: templates/single-zoom-meeting.php:63,
+#: templates/single/course/zoom-meetings.php:54
+msgid "The video conference has expired"
+msgstr "De videoconferentie is verlopen"
+
+#: templates/single-zoom-meeting.php:108, templates/single-zoom-meeting.php:75,
+#: templates/single/course/zoom-meetings.php:63,
+#: addons/tutor-zoom/views/pages/meetings.php:104
+msgid "Host Email"
+msgstr "Host e-mail"
+
+#: templates/single-zoom-meeting.php:104,
+#: templates/single/course/zoom-meetings.php:42,
+#: addons/google-classroom/views/components/password-setup.php:5,
+#: addons/tutor-zoom/views/metabox/meetings.php:38,
+#: addons/tutor-zoom/views/modal/meeting.php:111,
+#: addons/tutor-zoom/views/pages/meetings.php:103
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: templates/single-zoom-meeting.php:100,
+#: addons/tutor-zoom/views/metabox/meetings.php:34,
+#: addons/tutor-zoom/views/pages/meetings.php:102
+msgid "Meeting ID"
+msgstr "Meeting-ID"
+
+#: templates/single-zoom-meeting.php:96, templates/single-zoom-meeting.php:71
+msgid "Meeting Date"
+msgstr "Meeting datum"
+
+#: templates/single-zoom-meeting.php:88
+msgid "Join in Zoom App"
+msgstr "Doe mee met de Zoom-app"
+
+#: templates/single-zoom-meeting.php:84
+msgid "Meeting Starts in"
+msgstr "Meeting begint over"
+
+#: templates/single-zoom-meeting.php:42
+msgid "Go to Course Home"
+msgstr "Ga naar cursus dashboard"
+
+#: templates/single-zoom-meeting.php:25,
+#: addons/tutor-zoom/views/metabox/meetings.php:42,
+#: addons/tutor-zoom/views/pages/meetings.php:131
+msgid "Start Meeting"
+msgstr "Start de vergadering"
+
+#: templates/single-zoom-meeting.php:21
+msgid "Join in Browser"
+msgstr "Doe mee in je browser"
+
+#: templates/single-certificate.php:70
+msgid "by"
+msgstr "door"
+
+#: templates/single-certificate.php:58
+msgid "About Course"
+msgstr "Over cursus"
+
+#: templates/single-certificate.php:47
+msgid "Copy Link"
+msgstr "Kopieer link"
+
+#: templates/single-certificate.php:39
+msgid "JPG"
+msgstr "JPG"
+
+#: templates/single-certificate.php:34
+msgid "PDF"
+msgstr "Pdf"
+
+#: classes/Instructor_Percentage.php:95
+msgid "Default"
+msgstr "Standaard"
+
+#: classes/Instructor_Percentage.php:47
+msgid "Commission"
+msgstr "Commissie"
+
+#: classes/Instructor_Percentage.php:43
+msgid "Instructor Settings"
+msgstr "Instructeurinstellingen"
+
+#: classes/Course_Duplicator.php:51, classes/Course_Duplicator.php:52
+msgid "Duplicate"
+msgstr "Duplicaat"
+
+#: classes/Admin.php:181, classes/Admin.php:184, classes/Admin.php:194,
+#: classes/Admin.php:197
+msgid "Edit With Frontend Course Builder"
+msgstr "Bewerken met frontend cursusbouwer"
+
+#: templates/single/quiz/view_attempt.php:153
+msgid "Incorrect"
+msgstr "Niet correct"
+
+#: templates/single/quiz/view_attempt.php:151
+msgid "Review Required"
+msgstr "Beoordeling vereist"
+
+#: templates/single/quiz/view_attempt.php:148
+msgid "Correct"
+msgstr "Correct"
+
+#: templates/single/quiz/view_attempt.php:32
+msgid "Correct/Incorrect"
+msgstr "Juist onjuist"
+
+#: templates/single/quiz/view_attempt.php:31
+msgid "Given Answers"
+msgstr "Gegeven antwoorden"
+
+#: templates/single/quiz/view_attempt.php:29
+msgid "No."
+msgstr "Nee."
+
+#: templates/single/quiz/view_attempt.php:28
+msgid "Type"
+msgstr "Type"
+
+#: templates/single/quiz/view_attempt.php:22
+msgid "Back to quiz"
+msgstr "Terug naar quiz"
+
+#: templates/single/quiz/view_attempt.php:20
+msgid "View Attempts"
+msgstr "Bekijk pogingen"
+
+#: templates/single/quiz/previous-attempts.php:93
+msgid "Fail"
+msgstr "Mislukken"
+
+#: templates/single/quiz/previous-attempts.php:91
+msgid "Pass"
+msgstr "Slaging"
+
+#: templates/single/quiz/previous-attempts.php:36
+msgid "Manually reviewed at"
+msgstr "Handmatig beoordeeld op"
+
+#: templates/single/quiz/previous-attempts.php:17,
+#: templates/single/quiz/previous-attempts.php:85
+msgid "Result"
+msgstr "Resultaat"
+
+#: templates/single/quiz/previous-attempts.php:15,
+#: templates/single/quiz/previous-attempts.php:58
+msgid "Pass Mark"
+msgstr "Slagingspercentage"
+
+#: templates/single/quiz/previous-attempts.php:14,
+#: templates/single/quiz/previous-attempts.php:51
+msgid "Earned Marks"
+msgstr "Verdiende punten"
+
+#: templates/single/quiz/previous-attempts.php:13,
+#: templates/single/quiz/previous-attempts.php:47
+msgid "Total Marks"
+msgstr "Totaal punten"
+
+#: templates/single/quiz/previous-attempts.php:5
+msgid "Previous attempts"
+msgstr "Eerdere pogingen"
+
+#: templates/single/course/enrolled/gradebook.php:73
+msgid "Last Updated at"
+msgstr "Laatst bijgewerkt op"
+
+#: templates/single/quiz/previous-attempts.php:16,
+#: templates/single/course/enrolled/gradebook.php:51
+msgid "Grade"
+msgstr "Rang"
+
+#: templates/single/course/enrolled/gradebook.php:18
+msgid "After generate gradebook for this couse, you can see details report, quiz and assignments wise and you will get a final grade"
+msgstr "Na het genereren van een cijferlijst voor deze cursus, kun je de details van het rapport, de quiz en de opdrachten bekijken en krijg je een eindcijfer"
+
+#: templates/single/course/enrolled/gradebook.php:17
+msgid "Gradebook not generated yet"
+msgstr "Cijferlijst nog niet gegenereerd"
+
+#: includes/functions.php:283
+msgid "Generate Gradebook"
+msgstr "Cijferlijst genereren"
+
+#: classes/Quiz.php:75
+msgid "Enabling this option will let the students view quiz attempt details including the answer to each question."
+msgstr "Als u deze optie inschakelt, kunnen de studenten de details van de quizpogingen bekijken, inclusief het antwoord op elke vraag."
+
+#: classes/Quiz.php:72
+msgid "Detail Attempt View"
+msgstr "Detailpoging bekijken"
+
+#: classes/Quiz.php:68
+msgid "The values you set here define the default values that are used in the settings form when you create a new quiz."
+msgstr "De waarden die u hier instelt, definiëren de standaardwaarden die worden gebruikt in het instellingenformulier wanneer u een nieuwe quiz maakt."
+
+#: classes/Quiz.php:28
+msgid "View Attempt"
+msgstr "Bekijk poging"
+
+#: classes/General.php:179
+msgid "Upload a logo to show in frontend course builder page."
+msgstr "Upload een logo voor weergave op de cursusbouwer pagina van de frontend."
+
+#: classes/General.php:177
+msgid "Upload Logo"
+msgstr "Logo uploaden"
+
+#: classes/General.php:176
+msgid "Course Builder Page Logo"
+msgstr "Logo van cursusbouwer pagina"
+
+#: classes/General.php:172, classes/Quiz.php:67
+msgid "Tutor LMS Pro Settings"
+msgstr "Tutor LMS Pro-instellingen"
+
+#: addons/tutor-assignments/classes/Assignments_List.php:81
+msgid " Delete"
+msgstr "Verwijder"
+
+#: addons/tutor-assignments/classes/Assignments_List.php:81
+msgid "Are you sure?"
+msgstr "Weet je zeker dat?"
+
+#: addons/tutor-assignments/classes/Assignments_List.php:79
+msgid "View "
+msgstr ""
+
+#: addons/gradebook/views/pages/overview.php:156
+msgid "No enough data to show"
+msgstr "Niet genoeg gegevens om te laten zien"
+
+#: addons/gradebook/views/pages/overview.php:135
+msgid "Items"
+msgstr "Artikelen"
+
+#: addons/gradebook/views/pages/overview.php:115
+msgid "%d quiz, %d assignment"
+msgstr "%d quiz,%d opdracht"
+
+#: addons/gradebook/views/pages/overview.php:75,
+#: templates/single/course/enrolled/gradebook.php:34
+msgid "Final Grade"
+msgstr "Eindcijfer"
+
+#: addons/gradebook/views/pages/overview.php:53
+msgid "Search by course or student name"
+msgstr "Zoek op cursus- of studentnaam"
+
+#: includes/functions.php:283, addons/gradebook/views/pages/overview.php:41
+msgid "Re-generate Gradebook"
+msgstr "Genereer cijferlijst opnieuw"
+
+#: addons/gradebook/views/pages/overview.php:40
+msgid "Bulk Actions"
+msgstr "Bulkacties"
+
+#: addons/gradebook/views/pages/gradebooks.php:63
+msgid "No grading system has been defined to manage student grades. %s Import Sample Grade Data %s"
+msgstr "Er is geen beoordelingssysteem gedefinieerd om de cijfers van studenten te beheren. %s Importeer voorbeeldcijfergegevens %s"
+
+#: addons/gradebook/views/pages/gradebooks.php:52
+msgid "Are you Sure?"
+msgstr "Weet je zeker dat?"
+
+#: addons/gradebook/views/pages/gradebooks.php:29
+msgid "Grade Range %"
+msgstr "Cijfer bereik %"
+
+#: addons/gradebook/views/pages/gradebooks.php:5
+msgid "Add New Grade"
+msgstr "Voeg een nieuw cijfer toe"
+
+#: addons/gradebook/views/pages/edit_gradebook.php:75
+msgid "Grade Color"
+msgstr "Cijfer kleur"
+
+#: addons/gradebook/views/pages/edit_gradebook.php:63,
+#: addons/gradebook/views/pages/edit_gradebook.php:68
+msgid "Number Percent To"
+msgstr "Aantal procent tot"
+
+#: addons/gradebook/views/pages/edit_gradebook.php:50,
+#: addons/gradebook/views/pages/edit_gradebook.php:56
+msgid "Number Percent From"
+msgstr "Aantal procent van"
+
+#: addons/gradebook/views/pages/edit_gradebook.php:8,
+#: addons/gradebook/views/pages/edit_gradebook.php:90
+msgid "Update Gradebook"
+msgstr "Cijferlijst updaten"
+
+#: addons/gradebook/views/pages/add_new_gradebook.php:86
+msgid "Add new Grade"
+msgstr "Voeg een nieuw cijfer toe"
+
+#: addons/gradebook/views/pages/add_new_gradebook.php:71
+msgid "Grade Colour"
+msgstr "Cijfer kleur"
+
+#: addons/gradebook/views/pages/add_new_gradebook.php:22,
+#: addons/gradebook/views/pages/add_new_gradebook.php:27,
+#: addons/gradebook/views/pages/edit_gradebook.php:27,
+#: addons/gradebook/views/pages/edit_gradebook.php:32,
+#: addons/gradebook/views/pages/gradebooks.php:27
+msgid "Grade Name"
+msgstr "Cijfernaam"
+
+#: addons/gradebook/views/pages/add_new_gradebook.php:3,
+#: addons/gradebook/views/pages/overview.php:11
+msgid "Gradebooks"
+msgstr "Cijferlijsten"
+
+#: addons/gradebook/classes/init.php:120
+msgid "Insert the grade point out of which the final results will be calculated."
+msgstr "Voer het maximaal aantal punten in waarop de eindresultaten worden berekend."
+
+#: addons/gradebook/classes/init.php:113
+msgid "Input the separator text or symbol to display. Example: Insert “/” to display 3.8/4.0 or “out of” 3.8 out of 4."
+msgstr "Voer de scheidingstekst of het symbool in dat moet worden weergegeven. Voorbeeld: Voeg “/” in om 3.8/4.0 of “van” om 3.8 van 4.0 weer te geven"
+
+#: addons/gradebook/classes/init.php:111
+msgid "Grade scale separator"
+msgstr "Cijfer scheidingsteken"
+
+#: addons/gradebook/classes/init.php:107
+msgid "Display the final grade point to everyone such as 3.8%s"
+msgstr "Geef het eindcijfer weer, zoals 3,8%s"
+
+#: addons/gradebook/classes/init.php:105
+msgid "Show"
+msgstr "Tonen"
+
+#: addons/gradebook/classes/init.php:104, addons/gradebook/classes/init.php:118
+msgid "Grade Scale"
+msgstr "Cijfer schaal"
+
+#: addons/gradebook/classes/init.php:100
+msgid "Enable this option for the database to calculate in grade points instead of division."
+msgstr "Schakel deze optie in om het cijfer laten berekenen in punten in plaats van percentage."
+
+#: addons/gradebook/classes/init.php:97,
+#: addons/gradebook/views/pages/add_new_gradebook.php:35,
+#: addons/gradebook/views/pages/add_new_gradebook.php:39,
+#: addons/gradebook/views/pages/edit_gradebook.php:39,
+#: addons/gradebook/views/pages/edit_gradebook.php:43,
+#: addons/gradebook/views/pages/gradebooks.php:28
+msgid "Grade Point"
+msgstr "Cijfer gemiddelde"
+
+#: addons/gradebook/classes/init.php:93
+msgid "Gradebook Settings"
+msgstr "Cijferlijst instellingen"
+
+#: addons/gradebook/classes/GradeBook.php:531
+msgid "Gradebook has been deleted"
+msgstr "Cijferlijst is verwijderd"
+
+#: addons/gradebook/classes/GradeBook.php:521
+msgid "Gradebook has been re-generated"
+msgstr "Cijferlijst is opnieuw gegenereerd"
+
+#: addons/gradebook/classes/GradeBook.php:268,
+#: templates/single/course/enrolled/gradebook.php:102,
+#: templates/single/course/enrolled/gradebook.php:100,
+#: templates/single/course/enrolled/gradebook.php:91,
+#: templates/single/course/enrolled/gradebook.php:88
+msgid "Failed"
+msgstr "Mislukt"
+
+#: addons/gradebook/classes/GradeBook.php:268,
+#: templates/single/course/enrolled/gradebook.php:100,
+#: templates/single/course/enrolled/gradebook.php:88
+msgid "Passed"
+msgstr "Geslaagd"
+
+#: addons/gradebook/classes/GradeBook.php:265
+msgid "Your grade is "
+msgstr "Je cijfer is "
+
+#: addons/gradebook/classes/GradeBook.php:263
+msgid "You received %s points out of %s"
+msgstr "Je hebt %s punten ontvangen van %s"
+
+#: addons/gradebook/classes/GradeBook.php:139
+msgid "The grade has been deleted successfully."
+msgstr "Het cijfer is succesvol verwijderd."
+
+#: addons/gradebook/classes/GradeBook.php:129
+msgid "Gradebook has been updated successfully"
+msgstr "Cijferlijst is bijgewerkt"
+
+#: addons/gradebook/classes/GradeBook.php:87
+msgid "Gradebook has been added successfully"
+msgstr "Cijferlijst is toegevoegd"
+
+#: addons/gradebook/classes/GradeBook.php:59,
+#: addons/gradebook/classes/GradeBook.php:101,
+#: addons/gradebook/views/pages/add_new_gradebook.php:59,
+#: addons/gradebook/views/pages/add_new_gradebook.php:64
+msgid "Maximum Grade Percentile"
+msgstr "Maximum aantal punten percentage"
+
+#: addons/gradebook/classes/GradeBook.php:58,
+#: addons/gradebook/classes/GradeBook.php:100,
+#: addons/gradebook/views/pages/add_new_gradebook.php:47,
+#: addons/gradebook/views/pages/add_new_gradebook.php:52
+msgid "Minimum Grade Percentile"
+msgstr "Minimum cijferpercentage"
+
+#: addons/gradebook/classes/GradeBook.php:57,
+#: addons/gradebook/classes/GradeBook.php:99
+msgid "Grade name field is required"
+msgstr "Cijfernaamveld is verplicht"
+
+#: addons/gradebook/classes/GradeBook.php:43,
+#: addons/gradebook/classes/GradeBook.php:43,
+#: addons/gradebook/classes/GradeBook.php:491,
+#: addons/gradebook/classes/GradeBook.php:499,
+#: addons/gradebook/classes/init.php:89, addons/gradebook/classes/init.php:92,
+#: addons/gradebook/views/pages/gradebooks.php:3,
+#: addons/gradebook/views/pages/gradebooks.php:11,
+#: addons/gradebook/views/pages/overview.php:17
+msgid "Gradebook"
+msgstr "Cijferlijst"
+
+#: addons/content-drip/views/content-drip-lesson.php:95
+msgid "Select items that should be complete before this item"
+msgstr "Selecteer items die vóór dit item voltooid moeten zijn"
+
+#: addons/content-drip/views/content-drip-lesson.php:75
+msgid "Select prerequisites item"
+msgstr "Selecteer het item dat vereist is"
+
+#: addons/content-drip/views/content-drip-lesson.php:58
+msgid "This lesson will be available after the given number of days."
+msgstr "Deze les is beschikbaar na het opgegeven aantal dagen."
+
+#: addons/content-drip/views/content-drip-lesson.php:54,
+#: addons/tutor-assignments/views/modal/assignments.php:84
+msgid "Days"
+msgstr "Dagen"
+
+#: addons/content-drip/views/content-drip-lesson.php:45
+msgid "Date Format:"
+msgstr "Datumnotatie:"
+
+#: addons/content-drip/views/content-drip-lesson.php:41
+msgid "Lesson unlocking date:"
+msgstr "Les ontgrendelingsdatum:"
+
+#: addons/content-drip/views/content-drip-lesson.php:33
+msgid "Content Drip Settings"
+msgstr "Inhoud druppelen instellingen"
+
+#: addons/content-drip/classes/ContentDrip.php:232
+msgid "You can take this %s after finishing the following prerequisites:"
+msgstr "U kunt deze %s doen nadat u aan de volgende vereisten heeft voldaan:"
+
+#: addons/content-drip/classes/ContentDrip.php:176
+msgid "Please submit previous %s first"
+msgstr "Dien eerst de vorige %s in"
+
+#: addons/content-drip/classes/ContentDrip.php:169,
+#: addons/content-drip/classes/ContentDrip.php:183
+msgid "Please complete previous %s first"
+msgstr "Voltooi eerst de vorige %s"
+
+#: addons/content-drip/classes/ContentDrip.php:151
+msgid "This lesson will be available for you from %s"
+msgstr "Deze les is voor jou beschikbaar vanaf %s"
+
+#: addons/content-drip/classes/ContentDrip.php:135
+msgid "This %s will be available from %s"
+msgstr "Deze %s is beschikbaar vanaf %s"
+
+#: addons/content-drip/classes/ContentDrip.php:76
+msgid "You can schedule your course content using the above content drip options."
+msgstr "U kunt uw cursusinhoud plannen met behulp van de bovenstaande opties voor inhoud druppelen."
+
+#: addons/content-drip/classes/ContentDrip.php:74
+msgid "Course content unlocked after finishing prerequisites"
+msgstr "Cursusinhoud ontgrendeld na voltooiing van de vereisten"
+
+#: addons/content-drip/classes/ContentDrip.php:73
+msgid "Course content available sequentially"
+msgstr "Cursusinhoud opeenvolgend beschikbaar"
+
+#: addons/content-drip/classes/ContentDrip.php:72
+msgid "Content available after X days from enrollment"
+msgstr "Inhoud beschikbaar na X dagen na inschrijving"
+
+#: addons/content-drip/classes/ContentDrip.php:71
+msgid "Schedule course contents by date"
+msgstr "Plan cursusinhoud op datum"
+
+#: addons/content-drip/classes/ContentDrip.php:64
+msgid "Enable / Disable content drip"
+msgstr "Inhouddruppel in- / uitschakelen"
+
+#: classes/Quiz.php:73, addons/buddypress/classes/BuddyPressGroups.php:55,
+#: addons/content-drip/classes/ContentDrip.php:62,
+#: addons/gradebook/classes/init.php:98,
+#: addons/tutor-certificate/classes/init.php:125
+msgid "Enable"
+msgstr "Inschakelen"
+
+#: addons/content-drip/classes/ContentDrip.php:55
+msgid "Tutor Content Drip allow you to schedule publish topics / lesson"
+msgstr "Tutor Content Drip stelt u in staat om onderwerpen / les te publiceren"
+
+#: addons/content-drip/classes/ContentDrip.php:54
+msgid "Content Drip"
+msgstr "Inhoud druppelen"
+
+#: classes/Updater.php:341
+msgid "There is an error with your Tutor Pro License. Automatic update has been turned off, %s Please check license %s"
+msgstr "Er is een fout opgetreden met uw Tutor Pro-licentie. Automatische update is uitgeschakeld, %s Controleer licentie %s"
+
+#: classes/Updater.php:223
+msgid "Connect with License key"
+msgstr "Maak verbinding met de licentiecode"
+
+#: classes/Updater.php:222
+msgid "Enter your license key here"
+msgstr "Voer hier uw licentiesleutel in"
+
+#: classes/Updater.php:217
+msgid "Already have your key? Enter it here"
+msgstr "Heeft u uw sleutel al? Voer deze hier in"
+
+#: classes/Updater.php:216
+msgid "Enter License Key"
+msgstr "Voer de licentiecode in"
+
+#: classes/Updater.php:212
+msgid "support"
+msgstr "ondersteuning"
+
+#: classes/Updater.php:211
+msgid "Please enter your license key. An active license key is needed for automatic plugin updates and"
+msgstr "Alstublieft uw licentie sleutel invoeren. Een actieve licentiesleutel is nodig voor automatische updates van plug-ins en"
+
+#: classes/Updater.php:208
+msgid "Get License Key"
+msgstr "Verkrijg een licentiecode"
+
+#: classes/Updater.php:206
+msgid "Power Up your Plugin"
+msgstr "Zet uw plugin aan"
+
+#: classes/Updater.php:195
+msgid "A valid license is required to unlock available features"
+msgstr "Een geldige licentie is vereist voor deze functies"
+
+#: classes/Updater.php:191
+msgid "Valid license required"
+msgstr "Geldige licentie vereist"
+
+#: classes/Updater.php:189
+msgid "Your license is not connected"
+msgstr "Uw licentie is niet aangesloten"
+
+#: classes/Updater.php:177
+msgid "License Type : "
+msgstr "Licentie type : "
+
+#: classes/Updater.php:174
+msgid "License Valid Until : "
+msgstr "Licentie geldig tot: "
+
+#: classes/Updater.php:167
+msgid "Licensed To"
+msgstr "Licentie op naam van"
+
+#: classes/Updater.php:166
+msgid "Your license is connected with"
+msgstr "Uw licentie is verbonden met"
+
+#: classes/Updater.php:155
+msgid "Blog"
+msgstr "Blog"
+
+#: classes/Updater.php:152, addons/tutor-zoom/views/pages/help.php:7
+msgid "FAQ"
+msgstr "FAQ"
+
+#: classes/Updater.php:151
+msgid "Contact Us"
+msgstr "Neem contact met ons op"
+
+#: classes/Updater.php:150
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: classes/Updater.php:149
+msgid "About us"
+msgstr "Over ons"
+
+#: classes/Updater.php:148
+msgid "Support Forum"
+msgstr "Helpforum"
+
+#: classes/Updater.php:146
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: classes/Updater.php:144
+msgid "Plugins"
+msgstr "Plugins"
+
+#: classes/Updater.php:143
+msgid "Themes"
+msgstr "Thema's"
+
+#: classes/Updater.php:142
+msgid "Home"
+msgstr "Home"
+
+#: classes/Updater.php:39, classes/Updater.php:39
+msgid "Tutor Pro License"
+msgstr "Tutor Pro licentie"
+
+#: classes/Admin.php:50, classes/Admin.php:50
+msgid "Tutor LMS Pro"
+msgstr "Tutor LMS Pro"
+
+#: addons/wc-subscriptions/wc-subscriptions.php:29
+msgid "WooCommerce Subscriptions"
+msgstr "WooCommerce abonnementen"
+
+#: addons/tutor-report/views/pages/reviews/reviews.php:95
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: addons/tutor-report/views/pages/reviews/reviews.php:55
+msgid "Total reviews %d"
+msgstr "Totaal aantal beoordelingen %d"
+
+#: addons/gradebook/views/pages/gradebooks.php:10,
+#: addons/gradebook/views/pages/overview.php:16,
+#: addons/tutor-report/views/pages/report.php:5
+msgid "Overview"
+msgstr "Overzicht"
+
+#: addons/tutor-report/views/pages/overview.php:516
+msgid "New registered teachers"
+msgstr "Nieuwe geregistreerde docenten"
+
+#: addons/tutor-report/views/pages/overview.php:478,
+#: addons/tutor-report/views/pages/overview.php:524
+msgid "Registered at"
+msgstr "Geregistreerd bij"
+
+#: addons/tutor-report/views/pages/overview.php:470
+msgid "New registered students"
+msgstr "Nieuwe geregistreerde studenten"
+
+#: templates/single/quiz/view_attempt.php:30,
+#: addons/tutor-report/views/pages/overview.php:432
+msgid "Question"
+msgstr "Vraag"
+
+#: addons/tutor-report/views/pages/overview.php:425
+msgid "Recent questions from students"
+msgstr "Recente vragen van studenten"
+
+#: templates/single/quiz/previous-attempts.php:11,
+#: templates/single/quiz/previous-attempts.php:28,
+#: addons/tutor-report/views/pages/overview.php:376,
+#: addons/tutor-report/views/pages/reviews/reviews.php:66
+msgid "Time"
+msgstr "Tijd"
+
+#: addons/tutor-report/views/pages/overview.php:374,
+#: addons/tutor-report/views/pages/courses/course-single.php:362,
+#: addons/tutor-report/views/pages/reviews/reviews.php:64
+msgid "Rating"
+msgstr "Beoordeling"
+
+#: addons/tutor-report/views/pages/overview.php:372,
+#: addons/tutor-report/views/pages/overview.php:431,
+#: addons/tutor-report/views/pages/reviews/reviews.php:62
+msgid "User"
+msgstr "Gebruiker"
+
+#: addons/tutor-report/views/pages/overview.php:365
+msgid "Recent reviews"
+msgstr "Recente recensies"
+
+#: addons/tutor-report/views/pages/overview.php:347,
+#: addons/tutor-report/views/pages/overview.php:403,
+#: addons/tutor-report/views/pages/overview.php:502,
+#: addons/tutor-report/views/pages/overview.php:549,
+#: addons/tutor-report/views/pages/reviews/reviews.php:91
+msgid "ago"
+msgstr "geleden"
+
+#: addons/tutor-report/views/pages/overview.php:328
+msgid "Last enrolled courses"
+msgstr "Laatst ingeschreven cursussen"
+
+#: addons/tutor-report/views/pages/overview.php:302,
+#: addons/tutor-report/views/pages/overview.php:336
+msgid "Enrolled"
+msgstr "Ingeschreven"
+
+#: addons/tutor-report/views/pages/overview.php:301,
+#: addons/tutor-report/views/pages/overview.php:335
+msgid "Course Name"
+msgstr "Cursus naam"
+
+#: addons/tutor-report/views/pages/overview.php:294
+msgid "Most popular courses"
+msgstr "Meest populaire cursussen"
+
+#: addons/tutor-report/views/pages/overview.php:246
+msgid "Total Enrolled Course"
+msgstr "Totaal aantal ingeschreven cursussen"
+
+#: addons/tutor-report/views/pages/overview.php:201
+msgid "Student enrolment graph for %s"
+msgstr "Inschrijvingsgrafiek voor %s"
+
+#: addons/tutor-report/views/pages/overview.php:191,
+#: addons/tutor-report/views/pages/overview.php:375,
+#: addons/tutor-report/views/pages/report.php:7,
+#: addons/tutor-report/views/pages/courses/course-single.php:419,
+#: addons/tutor-report/views/pages/reviews/reviews.php:53,
+#: addons/tutor-report/views/pages/reviews/reviews.php:65
+msgid "Reviews"
+msgstr "Beoordelingen"
+
+#: addons/tutor-report/views/pages/overview.php:182,
+#: addons/tutor-report/views/pages/report.php:9,
+#: addons/tutor-report/views/pages/courses/course-single.php:262,
+#: addons/tutor-report/views/pages/students/student-table.php:18
+msgid "Students"
+msgstr "Studenten"
+
+#: addons/tutor-report/views/pages/overview.php:173,
+#: addons/tutor-report/views/pages/courses/course-single.php:354
+msgid "Instructors"
+msgstr "Instructeurs"
+
+#: templates/single/quiz/previous-attempts.php:12,
+#: templates/single/quiz/previous-attempts.php:43,
+#: addons/tutor-report/views/pages/overview.php:164
+msgid "Questions"
+msgstr "Vragen"
+
+#: classes/General.php:169, classes/Quiz.php:64,
+#: addons/gradebook/views/pages/overview.php:73,
+#: addons/tutor-report/views/pages/overview.php:155,
+#: templates/single/course/enrolled/gradebook.php:32,
+#: addons/tutor-report/views/pages/courses/course-table.php:155,
+#: addons/tutor-report/views/pages/students/student-profile.php:201,
+#: addons/tutor-report/views/pages/students/student-profile.php:271
+msgid "Quiz"
+msgstr "Quiz"
+
+#: addons/tutor-report/views/pages/overview.php:146
+msgid "Lessons"
+msgstr "Lessen"
+
+#: addons/buddypress/classes/BuddyPressGroups.php:144,
+#: addons/tutor-report/views/pages/overview.php:128,
+#: addons/tutor-report/views/pages/report.php:6
+msgid "Courses"
+msgstr "Cursussen"
+
+#: addons/tutor-report/views/pages/course/graph/top_menu.php:9,
+#: addons/tutor-report/views/pages/courses/graph/top_menu.php:9
+msgid "This Week"
+msgstr "Deze week"
+
+#: addons/tutor-report/views/pages/course/graph/top_menu.php:8,
+#: addons/tutor-report/views/pages/courses/graph/top_menu.php:8
+msgid "Last Week"
+msgstr "Vorige week"
+
+#: addons/tutor-report/views/pages/course/graph/top_menu.php:7,
+#: addons/tutor-report/views/pages/courses/graph/top_menu.php:7
+msgid "This Month"
+msgstr "Deze maand"
+
+#: addons/tutor-report/views/pages/course/graph/top_menu.php:6,
+#: addons/tutor-report/views/pages/courses/graph/top_menu.php:6
+msgid "Last Month"
+msgstr "Vorige maand"
+
+#: addons/tutor-report/views/pages/course/graph/top_menu.php:5,
+#: addons/tutor-report/views/pages/courses/graph/top_menu.php:5
+msgid "This Year"
+msgstr "Dit jaar"
+
+#: addons/tutor-report/views/pages/course/graph/top_menu.php:4,
+#: addons/tutor-report/views/pages/courses/graph/top_menu.php:4
+msgid "Last Year"
+msgstr "Vorig jaar"
+
+#: addons/gradebook/views/pages/gradebooks.php:30,
+#: addons/tutor-report/views/pages/overview.php:377,
+#: addons/tutor-report/views/pages/overview.php:434,
+#: addons/tutor-report/views/pages/reviews/reviews.php:67
+msgid "Action"
+msgstr "Actie"
+
+#: addons/tutor-report/views/pages/courses/graph/body.php:24,
+#: addons/tutor-report/views/pages/courses/graph/body.php:27,
+#: addons/tutor-report/views/pages/courses/graph/body.php:30
+msgid "Showing results from %s to %s"
+msgstr "Resultaten weergeven van %s tot %s"
+
+#: addons/tutor-report/views/pages/courses/graph/body.php:18,
+#: addons/tutor-report/views/pages/courses/graph/body.php:21
+msgid "Showing results for the month of %s"
+msgstr "Resultaten weergeven voor de maand %s"
+
+#: addons/tutor-report/views/pages/courses/graph/body.php:12,
+#: addons/tutor-report/views/pages/courses/graph/body.php:15
+msgid "Showing results for the year %s"
+msgstr "Resultaten weergeven voor het jaar %s"
+
+#: addons/tutor-report/tutor-report.php:29,
+#: addons/tutor-report/classes/Report.php:39,
+#: addons/tutor-report/classes/Report.php:39
+msgid "Report"
+msgstr "Rapport"
+
+#: addons/tutor-prerequisites/views/metabox/course-prerequisites-lists.php:35
+msgid "List courses that must be completed before enrolling for this course."
+msgstr "Cursussen die moeten worden voltooid voordat men zich kan inschrijven voor deze cursus."
+
+#: addons/tutor-prerequisites/views/metabox/course-prerequisites-lists.php:25
+msgid "Select a Course"
+msgstr "Selecteer een cursus"
+
+#: addons/tutor-prerequisites/views/metabox/course-prerequisites-lists.php:15
+msgid "Select course"
+msgstr "Selecteer cursus"
+
+#: templates/single/course/course-prerequisites.php:12
+msgid "Please note that this course has the following prerequisites which must be completed before it can be accessed"
+msgstr "Houd er rekening mee dat deze cursus de volgende vereisten heeft die moeten worden voltooid voordat deze kan worden geopend"
+
+#: templates/single/course/course-prerequisites.php:2
+msgid "Course Prerequisite(s)"
+msgstr "Cursusvereiste(n)"
+
+#: addons/tutor-prerequisites/tutor-prerequisites.php:29,
+#: addons/content-drip/views/content-drip-lesson.php:71
+msgid "Prerequisites"
+msgstr "Vereisten"
+
+#: addons/tutor-prerequisites/classes/Prerequisites.php:30,
+#: addons/tutor-prerequisites/classes/Prerequisites.php:39
+msgid "Course Prerequisites"
+msgstr "Cursusvereisten"
+
+#: addons/tutor-multi-instructors/tutor-multi-instructors.php:29
+msgid "Multi Instructors"
+msgstr "Multi-instructeurs"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:124
+msgid "Student completed a lesson (to teacher)"
+msgstr "Student heeft een les voltooid (voor leraar)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:107
+msgid "Asked Question (to teacher)"
+msgstr "Gestelde vraag (aan docent)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:72
+msgid "Course Enrolled (to teacher)"
+msgstr "Cursus ingeschreven (voor docent)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:54
+msgid "Course Completed (to teacher)"
+msgstr "Cursus voltooid (naar leraar)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:35
+msgid "Course Completed (to students)"
+msgstr "Cursus voltooid (voor studenten)"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:17
+msgid "Quiz Finished"
+msgstr "Quiz voltooid"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:11
+msgid "Variables that can be used inside templates"
+msgstr "Variabelen die in sjablonen kunnen worden gebruikt"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:9
+msgid "Content type"
+msgstr "Inhoudstype"
+
+#: addons/tutor-email/views/pages/tutor_emails.php:8
+msgid "Event"
+msgstr "Evenement"
+
+#: addons/tutor-email/tutor-email.php:29,
+#: addons/tutor-report/views/pages/overview.php:477,
+#: addons/tutor-report/views/pages/overview.php:523
+msgid "E-Mail"
+msgstr "E-mail"
+
+#: addons/tutor-report/views/pages/overview.php:476,
+#: addons/tutor-report/views/pages/overview.php:522,
+#: addons/tutor-report/views/pages/courses/course-single.php:286,
+#: addons/tutor-report/views/pages/courses/course-single.php:361,
+#: addons/tutor-report/views/pages/courses/course-single.php:434,
+#: addons/tutor-report/views/pages/students/student-table.php:33
+msgid "Name"
+msgstr "Naam"
+
+#: addons/tutor-email/classes/init.php:124
+msgid "Select when to send notification to the teachers"
+msgstr "Selecteer wanneer u een melding naar de docenten wilt sturen"
+
+#: addons/tutor-email/classes/init.php:114
+msgid "A Student asked a Question in Q&amp;A"
+msgstr "Een student heeft een vraag gesteld in Vraag&Antwoord"
+
+#: addons/tutor-email/classes/init.php:113
+msgid "A Student Completed Lesson"
+msgstr "Een student heeft een les afgerond"
+
+#: addons/tutor-email/classes/init.php:112
+msgid "A Student Completed Course"
+msgstr "Een student heeft een cursus afgerond"
+
+#: addons/tutor-email/classes/init.php:111
+msgid "A Student Enrolled in Course"
+msgstr "Een student is toegelaten in de cursus"
+
+#: addons/tutor-email/classes/init.php:109
+msgid "E-Mail to Teachers"
+msgstr "E-mail naar docenten"
+
+#: addons/tutor-email/classes/init.php:105
+msgid "Select when to send notification to the students"
+msgstr "Selecteer wanneer u een melding naar de studenten wilt sturen"
+
+#: addons/tutor-email/classes/init.php:97
+msgid "Completed a Course"
+msgstr "Een cursus voltooid"
+
+#: addons/tutor-email/classes/init.php:96
+msgid "Quiz Completed"
+msgstr "Quiz voltooid"
+
+#: addons/tutor-email/classes/init.php:93
+msgid "E-Mail to Students"
+msgstr "E-mail naar studenten"
+
+#: addons/tutor-email/classes/init.php:89
+msgid "Enable Disable Option to on/off notification on various event"
+msgstr "Schakel Optie uitschakelen in om melding over verschillende gebeurtenissen aan / uit te zetten"
+
+#: addons/tutor-email/classes/init.php:88
+msgid "Enable/Disable"
+msgstr "Inschakelen / uitschakelen"
+
+#: addons/tutor-email/classes/init.php:85
+msgid "E-Mail Notification"
+msgstr "E-mail notificatie"
+
+#: addons/tutor-email/classes/EmailNotification.php:73,
+#: addons/tutor-email/classes/EmailNotification.php:73,
+#: addons/tutor-email/views/pages/tutor_emails.php:2
+msgid "E-Mails"
+msgstr "E-mailberichten"
+
+#: addons/tutor-course-preview/views/metabox/course-preview-metabox.php:19
+msgid "If checked, any users/guest can view this lesson without enroll course"
+msgstr "Indien aangevinkt, kunnen alle gebruikers / gasten deze les bekijken zonder de cursus in te schrijven"
+
+#: addons/tutor-course-preview/classes/init.php:95
+msgid "This will allow user/guest to check some preview lesson in course before enroll"
+msgstr "Hierdoor kan de gebruiker / gast een voorbeeldles in de cursus bekijken voordat hij zich inschrijft"
+
+#: addons/tutor-course-preview/classes/init.php:94,
+#: addons/tutor-course-preview/views/metabox/course-preview-metabox.php:15
+msgid "Enable Course Preview"
+msgstr "Schakel cursusvoorbeeld in"
+
+#: addons/tutor-course-preview/classes/init.php:90
+msgid "Tutor Course Attachments Settings"
+msgstr "Instellingen voor Tutor Cursusbijlagen"
+
+#: addons/tutor-course-preview/tutor-course-preview.php:29,
+#: addons/tutor-course-preview/classes/init.php:85
+msgid "Course Preview"
+msgstr "Cursusvoorbeeld"
+
+#: addons/tutor-course-preview/classes/CoursePreview.php:27
+msgid "Lesson Preview"
+msgstr "Lesvoorbeeld"
+
+#: addons/tutor-course-attachments/views/metabox/course-attachments-metabox.php:19
+msgid "Upload Attachment"
+msgstr "Upload bijlage"
+
+#: addons/tutor-course-attachments/tutor-course-attachments.php:29,
+#: addons/tutor-course-attachments/classes/CourseAttachments.php:77
+msgid "Course Attachments"
+msgstr "Cursusbijlagen"
+
+#: addons/tutor-course-attachments/classes/CourseAttachments.php:72
+msgid "Attachments (private files)"
+msgstr "Bijlagen (privébestanden)"
+
+#: addons/tutor-certificate/views/template_options.php:9
+msgid "Select Certificate Template"
+msgstr "Selecteer certificaat template"
+
+#: templates/single-certificate.php:29,
+#: addons/tutor-certificate/views/lesson-menu-after.php:25
+msgid "Download Certificate"
+msgstr "Download certificaat"
+
+#: addons/tutor-certificate/tutor-certificate.php:29
+msgid "Certificate"
+msgstr "Certificaat"
+
+#: addons/tutor-certificate/classes/init.php:120
+msgid "Upload a signature that will be printed at certificate."
+msgstr "Upload een handtekening die bij het certificaat wordt afgedrukt."
+
+#: addons/tutor-certificate/classes/init.php:118,
+#: addons/tutor-certificate/classes/Instructor_Signature.php:54
+msgid "Upload Signature"
+msgstr "Handtekening uploaden"
+
+#: addons/tutor-certificate/classes/init.php:109
+msgid "Authorised company name will be printed under authorised name."
+msgstr "De gemachtigde bedrijfsnaam wordt afgedrukt onder naam."
+
+#: addons/tutor-certificate/classes/init.php:108
+msgid "Authorised Company Name"
+msgstr "Gemachtigde bedrijfsnaam"
+
+#: addons/tutor-certificate/classes/init.php:104
+msgid "Authorised name will be printed under signature."
+msgstr "De gemachtigde naam wordt afgedrukt onder handtekening."
+
+#: addons/tutor-certificate/classes/init.php:103
+msgid "Authorised Name"
+msgstr "Naam gemachtigde"
+
+#: addons/tutor-certificate/classes/init.php:91,
+#: addons/tutor-course-preview/classes/init.php:89
+msgid "General"
+msgstr "Algemeen"
+
+#: addons/tutor-certificate/classes/init.php:87,
+#: addons/tutor-certificate/classes/init.php:92
+msgid "Tutor Certificate"
+msgstr "Tutor Certificaat"
+
+#: addons/tutor-assignments/views/pages/submitted_assignment.php:115
+msgid "Evaluate this submission"
+msgstr "Beoordeel deze opdracht"
+
+#: addons/tutor-assignments/views/pages/submitted_assignment.php:104
+msgid "Mark this assignment out of %s"
+msgstr ""
+
+#: addons/tutor-assignments/views/pages/submitted_assignment.php:101
+msgid "Your Mark"
+msgstr ""
+
+#: addons/tutor-assignments/views/pages/submitted_assignment.php:92
+msgid "Evaluation"
+msgstr "Evaluatie"
+
+#: addons/tutor-report/views/pages/courses/course-single.php:109,
+#: addons/tutor-report/views/pages/courses/course-table.php:156,
+#: addons/tutor-report/views/pages/students/student-profile.php:160,
+#: addons/tutor-report/views/pages/students/student-profile.php:202,
+#: addons/tutor-report/views/pages/students/student-profile.php:282
+msgid "Assignment"
+msgstr "Toewijzing"
+
+#: addons/tutor-assignments/views/modal/assignments.php:141
+msgid "Update Assignment"
+msgstr "Werk opdracht bij"
+
+#: addons/tutor-assignments/views/modal/assignments.php:132
+msgid "Define maximum file size attachment in %s"
+msgstr "Definieer de maximale bestandsgrootte in bijlage in %s"
+
+#: addons/tutor-assignments/views/modal/assignments.php:127
+msgid "Maximum file size limit"
+msgstr "Maximale bestandsgrootte"
+
+#: addons/tutor-assignments/views/modal/assignments.php:121
+msgid "Define the number of files that a student can upload in this assignment. Input 0 to disable the option to upload."
+msgstr "Definieer het aantal bestanden dat een student kan uploaden in deze opdracht. Voer 0 in om de optie voor uploaden uit te schakelen."
+
+#: addons/tutor-assignments/views/modal/assignments.php:116
+msgid "Allow to upload files"
+msgstr "Sta toe om bestanden te uploaden"
+
+#: addons/tutor-assignments/views/modal/assignments.php:110
+msgid "Minimum points required for the student to pass this assignment."
+msgstr "Minimum aantal punten vereist voor de student om voor deze opdracht te slagen."
+
+#: addons/tutor-assignments/views/modal/assignments.php:106
+msgid "Minimum Pass Points"
+msgstr "Minimale slagingspunten"
+
+#: addons/tutor-assignments/views/modal/assignments.php:100
+msgid "Maximum points a student can score"
+msgstr "Maximale punten die een student kan scoren"
+
+#: addons/tutor-assignments/views/modal/assignments.php:90
+msgid "Assignment time duration, set 0 for no limit."
+msgstr "Tijdsduur opdracht, stel 0 in voor geen limiet."
+
+#: addons/tutor-assignments/views/modal/assignments.php:73
+msgid "Time Duration"
+msgstr "Tijds duur"
+
+#: addons/tutor-assignments/views/modal/assignments.php:65
+msgid "Add attachments"
+msgstr "Voeg bijlagen toe"
+
+#: addons/tutor-assignments/views/modal/assignments.php:53
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: addons/tutor-assignments/views/modal/assignments.php:35
+msgid "Attachments"
+msgstr "Bijlagen"
+
+#: addons/tutor-assignments/views/modal/assignments.php:17
+msgid "Assignment title"
+msgstr "Opdracht titel"
+
+#: addons/tutor-assignments/classes/Assignments_List.php:115,
+#: addons/tutor-zoom/views/pages/meetings.php:76,
+#: addons/tutor-report/views/pages/courses/course-single.php:435,
+#: addons/tutor-report/views/pages/courses/course-table.php:137,
+#: addons/tutor-report/views/pages/sales/sales.php:46,
+#: addons/tutor-report/views/pages/students/student-profile.php:324
+msgid "Date"
+msgstr "Datum"
+
+#: addons/tutor-assignments/classes/Assignments_List.php:114
+msgid "Duration"
+msgstr "Looptijd"
+
+#: addons/tutor-assignments/classes/Assignments_List.php:113
+msgid "Minumum Pass Points"
+msgstr ""
+
+#: addons/tutor-assignments/classes/Assignments_List.php:112,
+#: addons/tutor-assignments/views/modal/assignments.php:96
+msgid "Total Points"
+msgstr "Puntentotaal"
+
+#: templates/single/course/enrolled/gradebook.php:50
+msgid "Title"
+msgstr "Titel"
+
+#: addons/tutor-report/views/pages/overview.php:406
+msgid "View"
+msgstr "Bekijk"
+
+#: addons/tutor-assignments/classes/Assignments_List.php:73
+msgid "Started"
+msgstr "Begonnen"
+
+#: addons/tutor-assignments/classes/Assignments.php:390
+msgid "Maximum attachment upload size allowed is %d MB"
+msgstr "Maximaal toegestane grootte voor het uploaden van bijlagen is %d MB"
+
+#: addons/tutor-assignments/classes/Assignments.php:327
+msgid "Answer has been added successfully"
+msgstr "Antwoord is succesvol toegevoegd"
+
+#: addons/tutor-assignments/classes/Assignments.php:305
+msgid "An assignment is submitting currently, please submit previous one first"
+msgstr "Er is momenteel een opdracht ingediend, accepteer de vorige eerst."
+
+#: addons/tutor-assignments/tutor-assignments.php:29,
+#: addons/tutor-assignments/classes/Assignments.php:124,
+#: addons/tutor-assignments/classes/Assignments.php:124,
+#: addons/tutor-assignments/classes/Assignments.php:132,
+#: addons/tutor-assignments/classes/Assignments.php:151,
+#: addons/tutor-assignments/classes/Assignments.php:168,
+#: addons/gradebook/views/pages/overview.php:74,
+#: addons/tutor-assignments/views/pages/assignments.php:22,
+#: templates/single/course/enrolled/gradebook.php:33
+msgid "Assignments"
+msgstr "Opdrachten"
+
+#: addons/pmpro/views/pmpro-content-settings.php:94
+msgid "Course Categories"
+msgstr "Cursuscategorieën"
+
+#: addons/pmpro/views/pmpro-content-settings.php:88
+msgid "Category wise membership"
+msgstr "Categorie afhankelijke lidmaatschap"
+
+#: addons/pmpro/views/pmpro-content-settings.php:87
+msgid "Full website membership"
+msgstr "Volledig lidmaatschap van de website"
+
+#: addons/pmpro/views/pmpro-content-settings.php:86
+msgid "Select a membership model"
+msgstr "Selecteer een lidmaatschapsmodel"
+
+#: addons/pmpro/views/pmpro-content-settings.php:80
+msgid "Membership Model"
+msgstr "Lidmaatschapsmodel"
+
+#: addons/pmpro/pmpro.php:29, addons/pmpro/classes/init.php:86
+msgid "Paid Memberships Pro"
+msgstr "Betaalde lidmaatschappen Pro"
+
+#: addons/pmpro/classes/PaidMembershipsPro.php:197
+msgid "You must have a %s membership plan %s to enrol in this course."
+msgstr "Je moet een %s lidmaatschapsplan %s hebben om je in te schrijven voor deze cursus."
+
+#: addons/enrollments/views/enrollments.php:25,
+#: addons/tutor-assignments/classes/Assignments_List.php:200,
+#: addons/tutor-zoom/views/pages/meetings.php:52,
+#: addons/tutor-report/views/pages/courses/course-table.php:102,
+#: addons/tutor-report/views/pages/students/student-table.php:9
+msgid "Search"
+msgstr "Zoeken"
+
+#: addons/enrollments/views/enrollments.php:15
+msgid "You can search enrollments with enrol id, enrolment name, enrolment email, course title"
+msgstr "U kunt inschrijvingen zoeken met inschrijvings-id, inschrijvingsnaam, inschrijvings-e-mailadres, cursustitel"
+
+#: addons/enrollments/views/enrollments.php:14
+msgid "Info"
+msgstr "Informatie"
+
+#: addons/enrollments/views/enrollments.php:8
+msgid "Enroll a student"
+msgstr "Schrijf een student in"
+
+#: addons/enrollments/views/enroll_student.php:3,
+#: addons/enrollments/views/enroll_student.php:64
+msgid "Enroll Student"
+msgstr "Schrijf student in"
+
+#: addons/google-classroom/views/components/class-list.php:11,
+#: templates/single/course/enrolled/gradebook.php:52,
+#: addons/tutor-report/views/pages/sales/sales.php:48
+msgid "Status"
+msgstr "Status"
+
+#: addons/enrollments/classes/Enrollments_List.php:86,
+#: addons/tutor-report/views/pages/sales/sales.php:42
+msgid "Order"
+msgstr "Bestellen"
+
+#: addons/enrollments/classes/Enrollments_List.php:85,
+#: addons/enrollments/views/enroll_student.php:32,
+#: addons/gradebook/views/pages/overview.php:72,
+#: addons/tutor-report/views/pages/overview.php:373,
+#: addons/tutor-report/views/pages/overview.php:433,
+#: addons/tutor-zoom/views/pages/meetings.php:60,
+#: addons/tutor-report/views/pages/courses/course-table.php:153,
+#: addons/tutor-report/views/pages/reviews/reviews.php:63,
+#: addons/tutor-report/views/pages/sales/sales.php:44,
+#: addons/tutor-report/views/pages/students/student-profile.php:198,
+#: addons/tutor-report/views/pages/students/student-profile.php:323
+msgid "Course"
+msgstr "Cursus"
+
+#: templates/buddypress/message_thread_recipients.php:57,
+#: addons/enrollments/classes/Enrollments_List.php:84,
+#: addons/enrollments/views/enroll_student.php:18,
+#: addons/tutor-assignments/classes/Assignments_List.php:110,
+#: addons/gradebook/views/pages/overview.php:71,
+#: addons/tutor-report/views/pages/sales/sales.php:45
+msgid "Student"
+msgstr "Student"
+
+#: addons/enrollments/classes/Enrollments_List.php:62
+msgid "Date : %s"
+msgstr "Datum: %s"
+
+#: addons/enrollments/classes/Enrollments.php:124
+msgid "Enrolment has been done"
+msgstr "De inschrijving is voltooid"
+
+#: addons/enrollments/classes/Enrollments.php:95,
+#: addons/tutor-email/classes/init.php:95,
+#: addons/tutor-report/views/pages/overview.php:137
+msgid "Course Enrolled"
+msgstr "Cursus ingeschreven"
+
+#: addons/enrollments/classes/Enrollments.php:86
+msgid "This user has been already enrolled on this course"
+msgstr "Deze gebruiker is al ingeschreven voor deze cursus"
+
+#: addons/enrollments/classes/Enrollments.php:60
+msgid "%1$s (#%2$s - %3$s)"
+msgstr "%1$s (#%2$s - %3$s)"
+
+#: addons/enrollments/classes/Enrollments.php:28,
+#: addons/enrollments/classes/Enrollments.php:28,
+#: addons/enrollments/views/enrollments.php:7
+msgid "Enrollments"
+msgstr "Inschrijvingen"
